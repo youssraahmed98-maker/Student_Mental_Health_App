@@ -1,0 +1,1001 @@
+Timestamp,Gender,Age,Course,StudyYear,CGPA,Marital status,Depression,Anxiety,PanicAttack,SpecialistTreatment,StressLevel,SocialMediaHoursPerDay,MostUsedPlatform,UsageFrequency,EngagementBehavior,SleepHours,SocialInteractionLevel
+8/7/2020 12:02,female,18.0,engineering,year 1,3.18,no,yes,no,yes,no,2,4.0,Instagram,moderate,passive browsing,5.0,3
+8/7/2020 12:04,male,21.0,islamic education,year 2,3.47,no,no,yes,no,no,4,5.0,Instagram,high,active posting,6.0,3
+8/7/2020 12:05,male,19.0,bit,year 1,3.36,no,yes,yes,yes,no,5,5.5,YouTube,high,passive browsing,6.5,2
+8/7/2020 12:06,female,22.0,laws,year 3,3.29,yes,yes,no,no,no,3,5.5,Instagram,high,active posting,7.0,4
+8/7/2020 12:13,male,23.0,mathemathics,year 4,3.08,no,no,no,no,no,2,3.5,YouTube,moderate,passive browsing,6.5,4
+8/7/2020 12:31,male,19.0,engineering,year 2,3.58,no,no,no,yes,no,2,7.0,Facebook,high,passive browsing,5.5,5
+8/7/2020 12:32,female,23.0,pendidikan islam,year 2,3.53,yes,yes,no,yes,no,3,5.0,YouTube,high,passive browsing,4.5,5
+8/7/2020 12:33,female,18.0,bcs,year 1,3.93,no,no,yes,no,no,3,2.0,TikTok,moderate,messaging,8.0,5
+8/7/2020 12:35,female,19.0,human resources,year 2,2.79,no,no,no,no,no,2,3.0,YouTube,moderate,mixed,8.0,3
+8/7/2020 12:39,male,18.0,irkhs,year 1,3.85,no,no,yes,yes,no,3,3.5,TikTok,moderate,messaging,6.0,3
+8/7/2020 12:39,female,20.0,psychology,year 1,3.51,no,no,no,no,no,2,4.0,YouTube,moderate,mixed,7.0,3
+8/7/2020 12:39,female,24.0,engineering,year 3,3.98,yes,yes,no,no,no,4,4.0,Facebook,moderate,active posting,4.5,4
+8/7/2020 12:40,female,18.0,bcs,year 1,3.41,no,yes,no,no,no,3,3.5,TikTok,moderate,passive browsing,6.0,1
+8/7/2020 12:41,male,19.0,engineering,year 1,3.1,no,no,no,no,no,2,3.0,Facebook,moderate,mixed,8.0,4
+8/7/2020 12:43,female,18.0,kenms,year 2,3.59,no,no,yes,no,no,4,5.0,X,high,passive browsing,7.0,3
+8/7/2020 12:43,male,24.0,bcs,year 3,3.59,no,no,no,no,no,2,2.5,Instagram,moderate,mixed,7.5,2
+8/7/2020 12:46,female,24.0,accounting,year 3,3.15,no,no,no,no,no,2,4.0,Instagram,moderate,passive browsing,7.0,5
+8/7/2020 12:52,female,24.0,enm,year 4,3.26,yes,yes,yes,yes,no,5,7.0,Instagram,high,mixed,5.5,2
+8/7/2020 13:05,female,20.0,bit,year 2,3.72,no,no,yes,no,no,3,3.5,Instagram,moderate,passive browsing,6.0,4
+8/7/2020 13:07,female,18.0,marine science,year 2,3.65,yes,yes,yes,yes,no,4,4.5,Instagram,moderate,mixed,4.0,5
+8/7/2020 13:12,female,19.0,engineering,year 1,3.3,no,no,no,yes,no,4,3.5,YouTube,moderate,messaging,6.5,2
+8/7/2020 13:13,female,18.0,koe,year 2,3.07,no,no,no,no,no,2,4.0,Instagram,moderate,mixed,7.0,4
+8/7/2020 13:13,female,24.0,bcs,year 1,3.65,no,no,no,no,no,1,3.0,TikTok,moderate,passive browsing,8.0,4
+8/7/2020 13:15,female,24.0,engineering,year 1,3.18,no,no,no,no,no,2,4.0,X,moderate,messaging,5.5,3
+8/7/2020 13:17,female,23.0,bcs,year 3,3.73,no,yes,yes,yes,no,4,8.0,Instagram,high,mixed,4.5,4
+8/7/2020 13:29,female,18.0,banking studies,year 1,3.89,no,no,no,no,no,2,3.5,Snapchat,moderate,messaging,7.0,5
+8/7/2020 13:35,female,19.0,engineering,year 1,3.6,no,no,no,no,no,2,2.0,TikTok,moderate,messaging,6.5,5
+8/7/2020 13:41,male,18.0,engineering,year 2,3.25,yes,yes,yes,no,no,3,6.0,Instagram,high,messaging,6.0,2
+8/7/2020 13:58,female,24.0,bit,year 3,3.8,yes,yes,yes,yes,yes,5,6.0,YouTube,high,active posting,5.5,5
+8/7/2020 14:05,female,24.0,bcs,year 4,3.52,no,no,no,no,no,1,4.0,YouTube,moderate,messaging,6.5,2
+8/7/2020 14:27,female,23.0,business administration,year 2,3.3,no,no,no,no,no,1,4.5,X,moderate,messaging,8.5,3
+8/7/2020 14:29,male,18.0,bcs,year 2,3.08,no,no,no,no,no,3,2.0,Snapchat,moderate,mixed,7.0,4
+8/7/2020 14:29,male,19.0,bcs,year 1,3.53,no,no,no,yes,no,3,5.5,Snapchat,high,passive browsing,6.0,4
+8/7/2020 14:31,male,18.0,bcs,year 2,3.97,yes,yes,yes,no,yes,2,6.0,TikTok,high,passive browsing,5.0,4
+8/7/2020 14:41,female,19.0,bit,year 1,3.47,no,yes,yes,yes,no,4,5.0,Instagram,high,mixed,4.5,4
+8/7/2020 14:43,female,18.0,engineering,year 1,2.4,no,no,no,no,no,1,3.5,Snapchat,moderate,mixed,6.5,4
+8/7/2020 14:43,female,18.0,law,year 3,3.15,no,yes,yes,no,no,4,5.0,Snapchat,high,active posting,4.5,3
+8/7/2020 14:45,female,19.0,bit,year 1,2.55,no,yes,yes,yes,no,4,5.5,Facebook,high,messaging,5.0,2
+8/7/2020 14:47,female,18.0,kirkhs,year 1,3.84,no,no,no,no,no,1,4.0,TikTok,moderate,passive browsing,7.0,5
+8/7/2020 14:56,female,24.0,engineering,year 2,2.72,yes,yes,no,yes,yes,4,6.5,TikTok,high,passive browsing,4.0,3
+8/7/2020 14:57,female,24.0,bit,year 3,3.06,no,no,yes,no,no,3,4.0,Snapchat,moderate,active posting,6.5,3
+8/7/2020 14:57,female,22.0,engineering,year 4,3.75,no,no,no,no,no,2,4.5,TikTok,moderate,active posting,7.0,5
+8/7/2020 14:58,female,20.0,usuluddin,year 2,3.02,no,yes,no,no,no,2,5.0,Facebook,high,messaging,6.5,5
+8/7/2020 15:07,male,20.53,bit,year 1,1.81,no,no,no,no,no,2,3.5,X,moderate,passive browsing,8.0,2
+8/7/2020 15:08,male,23.0,taasl,year 2,3.63,no,no,no,yes,no,3,4.0,TikTok,moderate,mixed,7.0,4
+8/7/2020 15:09,male,18.0,bcs,year 1,3.83,no,no,yes,yes,no,4,3.5,Snapchat,moderate,mixed,5.5,3
+8/7/2020 15:12,female,19.0,engineering,year 1,3.66,no,no,yes,no,no,3,2.0,Snapchat,moderate,messaging,6.0,5
+8/7/2020 15:14,female,18.0,engine,year 4,3.76,no,no,no,no,no,1,3.0,Instagram,moderate,messaging,7.5,4
+8/7/2020 15:14,male,24.0,bcs,year 2,3.27,no,yes,no,no,no,2,3.0,X,moderate,active posting,6.0,5
+8/7/2020 15:18,female,24.0,bcs,year 3,3.59,no,no,no,yes,no,3,4.0,TikTok,moderate,mixed,5.5,3
+8/7/2020 15:27,female,23.0,ala,year 1,2.98,yes,yes,no,yes,yes,3,4.0,Snapchat,moderate,messaging,8.0,1
+8/7/2020 15:37,female,18.0,bcs,year 2,3.89,no,no,yes,no,no,4,2.0,TikTok,moderate,passive browsing,6.5,5
+8/7/2020 15:47,female,19.0,biomedical science,year 3,3.46,no,no,no,no,no,3,3.5,X,moderate,mixed,6.5,3
+8/7/2020 15:48,female,20.0,koe,year 3,3.44,yes,yes,yes,yes,no,5,5.0,TikTok,high,mixed,4.0,1
+8/7/2020 15:57,female,19.0,bcs,year 1,3.8,no,yes,no,yes,yes,3,5.0,Instagram,high,mixed,6.5,3
+8/7/2020 15:58,male,21.0,bcs,year 1,3.45,no,no,no,no,no,2,2.0,X,moderate,mixed,6.5,4
+8/7/2020 16:08,male,23.0,kirkhs,year 3,3.54,no,no,no,no,no,2,2.5,Instagram,moderate,messaging,7.0,5
+8/7/2020 16:21,female,20.0,benl,year 3,3.1,no,yes,yes,no,no,4,6.5,TikTok,high,active posting,6.5,4
+8/7/2020 16:22,female,18.0,bcs,year 1,3.52,no,no,no,no,no,3,3.0,Facebook,moderate,mixed,6.5,4
+8/7/2020 16:34,female,23.0,benl,year 1,3.16,no,no,no,no,no,3,3.5,Facebook,moderate,mixed,7.0,3
+8/7/2020 16:34,female,18.0,it,year 3,3.19,no,no,no,yes,no,3,2.5,YouTube,moderate,passive browsing,8.0,4
+8/7/2020 16:53,female,19.0,bcs,year 1,3.64,no,no,no,no,no,2,6.0,YouTube,high,passive browsing,4.5,4
+8/7/2020 17:05,female,18.0,cts,year 1,3.91,no,no,no,yes,no,3,6.0,TikTok,high,active posting,5.5,4
+8/7/2020 17:37,female,24.0,engin,year 1,3.68,no,no,no,yes,no,2,5.5,TikTok,high,mixed,5.5,3
+8/7/2020 17:46,female,24.0,engine,year 1,3.64,no,no,no,no,no,2,4.0,TikTok,moderate,mixed,7.0,4
+8/7/2020 17:50,female,23.0,econs,year 1,3.77,no,yes,yes,no,no,3,5.0,YouTube,high,passive browsing,5.5,4
+8/7/2020 18:10,female,18.0,koe,year 3,3.07,no,no,yes,no,no,3,4.5,Snapchat,moderate,messaging,5.5,5
+8/7/2020 18:11,male,19.0,mhsc,year 3,3.39,yes,yes,no,yes,no,3,6.0,Snapchat,high,active posting,5.0,4
+8/7/2020 19:05,female,18.0,malcom,year 1,3.54,no,yes,no,no,no,2,3.0,Snapchat,moderate,mixed,6.0,4
+8/7/2020 19:32,female,24.0,kop,year 4,3.48,no,no,yes,no,no,2,3.5,Instagram,moderate,mixed,6.0,3
+8/7/2020 20:36,female,24.0,biomedical science,year 1,3.38,no,no,no,no,no,2,1.0,TikTok,low,mixed,7.5,4
+8/7/2020 21:21,female,18.0,laws,year 3,3.6,no,no,no,yes,no,3,3.0,Instagram,moderate,active posting,7.5,3
+8/7/2020 22:35,female,19.0,bit,year 3,3.0,yes,yes,no,no,no,4,6.0,YouTube,high,active posting,7.0,3
+9/7/2020 6:57,male,18.0,biomedical science,year 1,1.62,no,no,no,no,no,2,2.5,TikTok,moderate,passive browsing,7.5,5
+9/7/2020 11:43,male,24.0,bit,year 3,3.85,no,no,yes,no,no,4,3.5,X,moderate,passive browsing,6.0,4
+9/7/2020 11:57,female,24.0,koe,year 1,3.86,no,no,yes,yes,no,5,5.0,TikTok,high,mixed,5.5,3
+9/7/2020 13:15,female,23.0,engineering,year 1,3.38,no,yes,no,no,no,3,2.0,Instagram,moderate,mixed,8.5,4
+9/7/2020 18:24,female,18.0,human sciences,year 2,3.04,no,no,no,yes,no,3,5.0,Instagram,high,mixed,7.0,5
+13/07/2020 10:07:32,female,19.0,biotechnology,year 3,0.71,no,no,no,no,no,1,4.5,Snapchat,moderate,mixed,6.5,4
+13/07/2020 10:10:30,female,18.0,engineering,year 4,3.56,no,no,no,no,no,3,3.5,YouTube,moderate,messaging,8.0,4
+13/07/2020 10:11:26,female,24.0,communication,year 2,3.93,yes,yes,yes,yes,no,5,7.5,Instagram,high,mixed,4.5,2
+13/07/2020 10:12:18,female,24.0,diploma nursing,year 2,3.81,no,no,no,no,no,1,1.5,Instagram,low,mixed,6.5,5
+13/07/2020 10:12:26,female,19.0,engineering,year 1,3.16,no,yes,yes,no,no,4,7.0,Snapchat,high,mixed,6.5,4
+13/07/2020 10:12:28,female,19.0,pendidikan islam,year 2,3.03,no,no,no,no,no,3,2.0,Instagram,moderate,passive browsing,6.0,5
+13/07/2020 10:14:46,male,23.0,radiography,year 1,3.15,no,no,no,no,no,2,1.5,Snapchat,low,active posting,5.5,5
+13/07/2020 10:33:47,female,18.0,psychology,year 1,3.66,no,yes,yes,no,yes,4,4.5,Snapchat,moderate,passive browsing,6.5,2
+13/07/2020 10:34:08,female,19.0,fiqh fatwa,year 3,3.36,no,no,no,no,no,2,5.0,Instagram,high,mixed,7.0,4
+13/07/2020 11:46:13,female,18.0,psychology,year 1,3.82,no,yes,yes,yes,no,3,5.5,Instagram,high,messaging,5.5,2
+13/07/2020 11:49:02,male,24.0,bit,year 1,3.43,no,no,yes,no,no,4,3.0,Facebook,moderate,passive browsing,6.5,3
+13/07/2020 11:54:58,male,24.0,engineering,year 2,2.23,no,no,no,yes,no,4,2.5,TikTok,moderate,messaging,6.5,4
+13/07/2020 13:57:11,female,23.0,diploma tesl,year 3,3.56,no,no,no,yes,no,3,4.0,TikTok,moderate,messaging,6.0,4
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.35,no,no,yes,no,no,2,1.5,Snapchat,low,active posting,6.5,3
+13/07/2020 14:48:05,female,19.0,koe,year 2,3.37,yes,yes,no,no,no,2,2.5,Facebook,moderate,passive browsing,6.5,1
+13/07/2020 16:15:13,female,18.0,benl,year 1,3.28,no,yes,no,no,no,2,6.0,Facebook,high,messaging,6.0,4
+13/07/2020 17:30:44,female,24.0,fiqh,year 3,1.53,no,no,no,yes,no,3,5.5,Snapchat,high,messaging,5.5,5
+13/07/2020 19:08:32,female,18.0,islamic education,year 1,3.75,no,no,no,no,no,3,3.0,TikTok,moderate,mixed,6.5,4
+13/07/2020 19:56:49,female,21.0,bcs,year 1,3.76,no,no,yes,no,no,3,3.5,Instagram,moderate,messaging,4.5,4
+13/07/2020 21:21:42,male,18.0,engineering,year 2,3.21,no,yes,yes,no,no,4,5.0,Snapchat,high,mixed,6.5,5
+13/07/2020 21:22:56,female,19.0,nursing,year 3,3.51,yes,yes,no,yes,no,3,7.5,YouTube,high,messaging,5.5,4
+13/07/2020 21:23:57,female,23.0,pendidikan islam,year 4,3.55,no,no,no,no,no,2,3.5,TikTok,moderate,messaging,7.0,4
+18/07/2020 20:16:21,male,20.0,biomedical science,year 2,3.02,no,no,no,no,no,1,4.0,X,moderate,mixed,7.0,4
+8/7/2020 15:37,female,18.0,bcs,year 2,3.88,no,no,yes,no,no,4,1.5,TikTok,low,passive browsing,6.5,4
+13/07/2020 14:48:05,female,19.0,koe,year 2,3.41,yes,yes,no,no,no,2,3.0,Facebook,moderate,passive browsing,6.0,1
+8/7/2020 12:43,female,18.0,kenms,year 2,3.6,no,no,yes,no,no,4,5.0,Instagram,high,passive browsing,7.0,2
+8/7/2020 21:21,female,18.0,laws,year 3,3.44,no,no,no,yes,no,3,2.5,Instagram,moderate,active posting,7.5,4
+8/7/2020 16:34,female,18.0,it,year 3,3.11,no,no,no,yes,no,3,3.5,Instagram,moderate,passive browsing,8.0,4
+8/7/2020 13:12,female,20.0,engineering,year 1,3.29,no,no,no,yes,no,3,4.5,YouTube,moderate,passive browsing,7.0,1
+13/07/2020 10:12:26,female,20.0,engineering,year 1,3.06,no,yes,yes,no,no,4,6.5,Snapchat,high,mixed,5.5,5
+13/07/2020 10:34:08,female,19.0,fiqh fatwa,year 3,3.41,no,no,no,no,no,1,4.0,Instagram,moderate,mixed,7.5,4
+9/7/2020 11:43,male,23.0,bit,year 3,3.97,no,no,yes,no,no,4,4.0,Instagram,moderate,passive browsing,6.0,3
+9/7/2020 11:43,male,25.0,bit,year 3,3.95,no,no,yes,no,no,5,3.0,X,moderate,passive browsing,6.0,4
+13/07/2020 11:46:13,female,19.0,psychology,year 1,3.8,no,yes,yes,yes,no,4,6.0,Instagram,high,messaging,5.5,2
+13/07/2020 21:23:57,female,22.0,pendidikan islam,year 4,3.67,no,no,no,no,no,3,2.5,TikTok,moderate,messaging,7.0,5
+8/7/2020 13:15,female,25.0,engineering,year 1,3.19,no,no,no,no,no,2,4.5,X,moderate,messaging,4.5,4
+8/7/2020 12:05,male,20.0,bit,year 1,3.33,no,yes,yes,yes,no,5,5.0,YouTube,high,passive browsing,7.0,3
+8/7/2020 13:13,female,18.0,koe,year 2,3.02,no,no,no,no,no,2,4.5,Facebook,moderate,active posting,7.0,4
+8/7/2020 15:47,female,19.0,biomedical science,year 3,3.44,no,no,no,no,no,3,3.5,TikTok,moderate,mixed,6.5,3
+8/7/2020 12:04,male,21.0,islamic education,year 2,3.44,no,no,yes,no,no,4,4.5,Instagram,moderate,active posting,6.5,3
+13/07/2020 11:46:13,female,18.0,psychology,year 1,3.83,no,yes,yes,yes,no,3,5.5,Instagram,high,passive browsing,5.0,1
+8/7/2020 14:05,female,24.0,bcs,year 4,3.53,no,no,no,no,no,1,4.5,YouTube,moderate,messaging,6.5,2
+8/7/2020 14:45,female,20.0,bit,year 1,2.55,no,yes,yes,yes,no,4,5.5,Facebook,high,passive browsing,5.0,2
+8/7/2020 12:04,male,20.0,islamic education,year 2,3.5,no,no,yes,no,no,4,5.5,Instagram,high,active posting,6.5,2
+8/7/2020 17:37,female,24.0,engin,year 1,3.78,no,no,no,yes,no,3,6.5,TikTok,high,messaging,4.5,3
+8/7/2020 16:34,female,23.0,benl,year 1,3.24,no,no,no,no,no,2,2.5,Facebook,moderate,messaging,7.0,4
+8/7/2020 13:12,female,19.0,engineering,year 1,3.18,no,no,no,yes,no,4,4.5,Instagram,moderate,messaging,6.0,3
+8/7/2020 14:29,male,20.0,bcs,year 1,3.33,no,no,no,yes,no,4,5.5,Snapchat,high,passive browsing,6.0,3
+9/7/2020 11:57,female,24.0,koe,year 1,3.93,no,no,yes,yes,no,5,4.5,TikTok,moderate,mixed,5.5,2
+8/7/2020 16:21,female,20.0,benl,year 3,2.99,no,yes,yes,no,no,4,5.5,TikTok,high,active posting,6.0,4
+8/7/2020 13:13,female,18.0,koe,year 2,3.05,no,no,no,no,no,2,4.0,X,moderate,mixed,6.5,5
+13/07/2020 11:49:02,male,24.0,bit,year 1,3.34,no,no,yes,no,no,4,3.5,Facebook,moderate,passive browsing,6.5,2
+8/7/2020 15:14,male,24.0,bcs,year 2,3.13,no,yes,no,no,no,3,3.0,X,moderate,passive browsing,5.5,5
+13/07/2020 13:57:11,female,23.0,diploma tesl,year 3,3.6,no,no,no,yes,no,3,5.0,TikTok,high,messaging,6.5,3
+8/7/2020 16:22,female,18.0,bcs,year 1,3.58,no,no,no,no,no,3,2.0,Facebook,moderate,mixed,6.5,4
+8/7/2020 14:57,female,21.0,engineering,year 4,3.7,no,no,no,no,no,1,4.5,TikTok,moderate,active posting,5.5,5
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.14,no,no,yes,no,no,1,0.5,Instagram,low,active posting,6.5,3
+8/7/2020 16:34,female,23.0,benl,year 1,3.12,no,no,no,no,no,4,3.5,Facebook,moderate,mixed,6.5,3
+13/07/2020 10:10:30,female,19.0,engineering,year 4,3.59,no,no,no,no,no,3,4.0,Instagram,moderate,mixed,7.0,4
+8/7/2020 12:43,female,18.0,kenms,year 2,3.47,no,no,yes,no,no,4,4.5,X,moderate,passive browsing,6.5,3
+8/7/2020 16:53,female,19.0,bcs,year 1,3.65,no,no,no,no,no,1,4.5,YouTube,moderate,active posting,4.5,4
+8/7/2020 16:53,female,19.0,bcs,year 1,3.64,no,no,no,no,no,2,6.0,YouTube,high,passive browsing,5.0,5
+8/7/2020 15:12,female,18.0,engineering,year 1,3.71,no,no,yes,no,no,4,2.5,Snapchat,moderate,messaging,6.0,4
+8/7/2020 16:53,female,19.0,bcs,year 1,3.65,no,no,no,no,no,2,6.0,YouTube,high,passive browsing,4.0,5
+8/7/2020 15:27,female,22.0,ala,year 1,2.9,yes,yes,no,yes,yes,2,4.5,Snapchat,moderate,messaging,8.0,1
+8/7/2020 15:57,female,20.0,bcs,year 1,3.9,no,yes,no,yes,yes,3,4.5,Instagram,moderate,mixed,6.5,2
+8/7/2020 17:37,female,23.0,engin,year 1,3.67,no,no,no,yes,no,2,6.0,TikTok,high,mixed,5.0,3
+8/7/2020 12:05,male,19.0,bit,year 1,3.36,no,yes,yes,yes,no,5,6.0,YouTube,high,passive browsing,6.0,1
+18/07/2020 20:16:21,male,19.0,biomedical science,year 2,2.95,no,no,no,no,no,2,3.0,Instagram,moderate,mixed,6.0,4
+8/7/2020 15:27,female,24.0,ala,year 1,2.94,yes,yes,no,yes,yes,3,4.0,Snapchat,moderate,messaging,8.0,1
+8/7/2020 12:32,female,23.0,pendidikan islam,year 2,3.46,yes,yes,no,yes,no,4,4.5,YouTube,moderate,active posting,4.5,4
+8/7/2020 13:12,female,19.0,engineering,year 1,3.29,no,no,no,yes,no,4,3.5,Instagram,moderate,messaging,6.5,2
+8/7/2020 22:35,female,18.0,bit,year 3,3.14,yes,yes,no,no,no,3,6.0,Instagram,high,active posting,7.0,4
+8/7/2020 14:47,female,18.0,kirkhs,year 1,3.73,no,no,no,no,no,1,3.5,TikTok,moderate,passive browsing,6.5,5
+8/7/2020 12:52,female,24.0,enm,year 4,3.13,yes,yes,yes,yes,no,5,6.5,TikTok,high,mixed,6.0,2
+8/7/2020 12:06,female,23.0,laws,year 3,3.41,yes,yes,no,no,no,4,5.5,Instagram,high,active posting,6.5,5
+13/07/2020 11:49:02,male,24.0,bit,year 1,3.41,no,no,yes,no,no,4,2.5,Facebook,moderate,active posting,7.0,3
+8/7/2020 16:34,female,22.0,benl,year 1,3.11,no,no,no,no,no,3,3.0,Facebook,moderate,active posting,6.5,3
+8/7/2020 12:41,male,18.0,engineering,year 1,3.18,no,no,no,no,no,2,3.5,Instagram,moderate,mixed,7.5,5
+8/7/2020 12:35,female,19.0,human resources,year 2,2.74,no,no,no,no,no,1,2.5,YouTube,moderate,mixed,7.5,3
+13/07/2020 11:54:58,male,24.0,engineering,year 2,2.38,no,no,no,yes,no,4,3.0,TikTok,moderate,messaging,6.0,4
+8/7/2020 15:47,female,18.0,biomedical science,year 3,3.51,no,no,no,no,no,3,4.0,X,moderate,mixed,7.0,3
+8/7/2020 12:04,male,21.0,islamic education,year 2,3.43,no,no,yes,no,no,4,4.0,Instagram,moderate,active posting,6.5,4
+13/07/2020 10:12:28,female,19.0,pendidikan islam,year 2,3.2,no,no,no,no,no,3,1.5,Instagram,low,mixed,6.5,5
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.3,no,no,yes,no,no,1,2.0,Snapchat,moderate,active posting,7.0,3
+8/7/2020 16:34,female,23.0,benl,year 1,3.22,no,no,no,no,no,3,3.0,Facebook,moderate,mixed,6.5,3
+8/7/2020 20:36,female,24.0,biomedical science,year 1,3.4,no,no,no,no,no,2,0.5,TikTok,low,mixed,7.5,4
+8/7/2020 15:07,male,20.53,bit,year 1,1.91,no,no,no,no,no,1,4.0,X,moderate,passive browsing,7.5,2
+8/7/2020 12:33,female,18.0,bcs,year 1,4.0,no,no,yes,no,no,4,2.5,TikTok,moderate,messaging,8.5,5
+8/7/2020 15:12,female,18.0,engineering,year 1,3.66,no,no,yes,no,no,3,2.0,Snapchat,moderate,messaging,5.5,5
+8/7/2020 14:41,female,20.0,bit,year 1,3.41,no,yes,yes,yes,no,3,4.5,TikTok,moderate,mixed,5.0,4
+9/7/2020 18:24,female,19.0,human sciences,year 2,3.08,no,no,no,yes,no,3,6.0,Instagram,high,active posting,7.5,5
+13/07/2020 10:11:26,female,24.0,communication,year 2,3.88,yes,yes,yes,yes,no,5,8.5,Instagram,high,mixed,5.5,1
+8/7/2020 14:43,female,18.0,engineering,year 1,2.56,no,no,no,no,no,1,4.0,Snapchat,moderate,mixed,6.5,4
+8/7/2020 15:18,female,24.0,bcs,year 3,3.6,no,no,no,yes,no,3,4.0,TikTok,moderate,mixed,6.0,4
+8/7/2020 12:06,female,22.0,laws,year 3,3.26,yes,yes,no,no,no,2,5.0,Instagram,high,active posting,8.0,4
+8/7/2020 12:04,male,20.0,islamic education,year 2,3.48,no,no,yes,no,no,3,4.5,Instagram,moderate,active posting,5.5,2
+8/7/2020 12:31,male,18.0,engineering,year 2,3.47,no,no,no,yes,no,2,7.5,Facebook,high,passive browsing,4.5,5
+8/7/2020 15:48,female,20.0,koe,year 3,3.36,yes,yes,yes,yes,no,5,5.5,TikTok,high,mixed,4.0,1
+8/7/2020 12:06,female,22.0,laws,year 3,3.39,yes,yes,no,no,no,4,6.5,Instagram,high,active posting,7.5,3
+8/7/2020 15:48,female,19.0,koe,year 3,3.39,yes,yes,yes,yes,no,4,5.5,TikTok,high,mixed,4.0,1
+13/07/2020 14:48:05,female,19.0,koe,year 2,3.29,yes,yes,no,no,no,2,1.5,Facebook,low,mixed,6.5,1
+8/7/2020 17:05,female,18.0,cts,year 1,3.95,no,no,no,yes,no,4,6.5,TikTok,high,active posting,5.5,4
+8/7/2020 12:52,female,24.0,enm,year 4,3.35,yes,yes,yes,yes,no,5,6.5,Instagram,high,mixed,5.5,2
+13/07/2020 11:54:58,male,23.0,engineering,year 2,2.29,no,no,no,yes,no,5,2.5,X,moderate,messaging,6.5,4
+8/7/2020 15:07,male,19.53,bit,year 1,1.89,no,no,no,no,no,1,3.5,YouTube,moderate,passive browsing,8.0,3
+8/7/2020 14:31,male,18.0,bcs,year 2,3.91,yes,yes,yes,no,yes,3,7.0,TikTok,high,passive browsing,5.5,4
+9/7/2020 6:57,male,18.0,biomedical science,year 1,1.51,no,no,no,no,no,2,4.5,TikTok,moderate,passive browsing,7.0,5
+8/7/2020 16:53,female,19.0,bcs,year 1,3.76,no,no,no,no,no,3,6.5,YouTube,high,passive browsing,4.0,4
+13/07/2020 21:23:57,female,23.0,pendidikan islam,year 4,3.52,no,no,no,no,no,2,3.5,TikTok,moderate,messaging,6.5,4
+8/7/2020 12:41,male,18.0,engineering,year 1,3.08,no,no,no,no,no,2,3.5,Facebook,moderate,mixed,8.5,4
+13/07/2020 17:30:44,female,24.0,fiqh,year 3,1.64,no,no,no,yes,no,4,6.0,Snapchat,high,messaging,6.0,5
+8/7/2020 15:14,female,18.0,engine,year 4,3.8,no,no,no,no,no,1,3.0,Instagram,moderate,passive browsing,7.5,4
+8/7/2020 12:43,female,19.0,kenms,year 2,3.63,no,no,yes,no,no,4,6.0,TikTok,high,messaging,7.5,2
+8/7/2020 21:21,female,19.0,laws,year 3,3.77,no,no,no,yes,no,3,3.0,TikTok,moderate,active posting,7.0,3
+9/7/2020 18:24,female,18.0,human sciences,year 2,2.99,no,no,no,yes,no,3,5.5,Instagram,high,mixed,8.0,5
+13/07/2020 10:34:08,female,19.0,fiqh fatwa,year 3,3.43,no,no,no,no,no,3,5.5,TikTok,high,mixed,8.0,4
+8/7/2020 16:53,female,19.0,bcs,year 1,3.64,no,no,no,no,no,2,6.5,Snapchat,high,passive browsing,5.0,4
+8/7/2020 14:56,female,24.0,engineering,year 2,2.74,yes,yes,no,yes,yes,4,7.0,TikTok,high,passive browsing,5.0,3
+13/07/2020 10:14:46,male,24.0,radiography,year 1,3.27,no,no,no,no,no,2,1.0,Snapchat,low,active posting,4.5,5
+13/07/2020 10:10:30,female,18.0,engineering,year 4,3.6,no,no,no,no,no,2,3.0,YouTube,moderate,mixed,7.5,3
+13/07/2020 10:12:18,female,23.0,diploma nursing,year 2,3.85,no,no,no,no,no,1,1.0,Instagram,low,passive browsing,6.0,5
+8/7/2020 15:47,female,19.0,biomedical science,year 3,3.55,no,no,no,no,no,3,4.0,X,moderate,mixed,7.0,2
+8/7/2020 13:15,female,23.0,engineering,year 1,3.15,no,no,no,no,no,2,4.5,X,moderate,messaging,5.0,4
+8/7/2020 13:29,female,18.0,banking studies,year 1,3.82,no,no,no,no,no,3,4.0,Snapchat,moderate,messaging,7.5,5
+13/07/2020 11:49:02,male,24.0,bit,year 1,3.35,no,no,yes,no,no,4,4.0,X,moderate,passive browsing,7.0,3
+8/7/2020 16:34,female,23.0,benl,year 1,3.0,no,no,no,no,no,3,3.5,Facebook,moderate,mixed,7.5,3
+8/7/2020 14:57,female,25.0,bit,year 3,3.22,no,no,yes,no,no,4,4.5,Snapchat,moderate,active posting,6.5,4
+8/7/2020 13:58,female,25.0,bit,year 3,3.71,yes,yes,yes,yes,yes,5,5.5,YouTube,high,active posting,5.0,4
+8/7/2020 12:43,female,18.0,kenms,year 2,3.57,no,no,yes,no,no,5,5.0,X,high,passive browsing,6.5,2
+8/7/2020 15:08,male,23.0,taasl,year 2,3.61,no,no,no,yes,no,3,4.5,TikTok,moderate,active posting,7.5,4
+8/7/2020 17:46,female,24.0,engine,year 1,3.66,no,no,no,no,no,3,4.5,TikTok,moderate,mixed,7.5,3
+13/07/2020 11:49:02,male,24.0,bit,year 1,3.5,no,no,yes,no,no,3,3.0,TikTok,moderate,passive browsing,6.5,2
+8/7/2020 20:36,female,24.0,biomedical science,year 1,3.45,no,no,no,no,no,3,1.0,YouTube,low,mixed,7.5,5
+8/7/2020 12:35,female,19.0,human resources,year 2,2.74,no,no,no,no,no,2,2.0,Instagram,moderate,mixed,7.0,4
+13/07/2020 11:46:13,female,18.0,psychology,year 1,3.81,no,yes,yes,yes,no,3,5.5,Instagram,high,active posting,5.0,2
+8/7/2020 12:02,female,18.0,engineering,year 1,3.2,no,yes,no,yes,no,2,4.5,Instagram,moderate,passive browsing,6.0,4
+8/7/2020 12:33,female,18.0,bcs,year 1,3.91,no,no,yes,no,no,3,2.5,TikTok,moderate,messaging,7.5,5
+13/07/2020 11:46:13,female,18.0,psychology,year 1,3.95,no,yes,yes,yes,no,3,6.0,Instagram,high,messaging,5.5,2
+8/7/2020 17:05,female,19.0,cts,year 1,3.95,no,no,no,yes,no,3,6.0,TikTok,high,active posting,6.0,4
+8/7/2020 12:39,female,20.0,psychology,year 1,3.57,no,no,no,no,no,2,4.0,YouTube,moderate,messaging,6.5,3
+13/07/2020 10:11:26,female,23.0,communication,year 2,3.98,yes,yes,yes,yes,no,5,7.0,TikTok,high,mixed,4.5,3
+8/7/2020 12:33,female,19.0,bcs,year 1,4.0,no,no,yes,no,no,2,2.5,Instagram,moderate,messaging,8.5,5
+8/7/2020 14:41,female,19.0,bit,year 1,3.48,no,yes,yes,yes,no,4,5.5,Instagram,high,mixed,4.5,4
+8/7/2020 14:41,female,20.0,bit,year 1,3.37,no,yes,yes,yes,no,4,5.5,Instagram,high,mixed,6.0,3
+8/7/2020 14:29,male,19.0,bcs,year 1,3.56,no,no,no,yes,no,2,5.0,Snapchat,high,passive browsing,5.0,3
+8/7/2020 12:13,male,23.0,mathemathics,year 4,3.03,no,no,no,no,no,2,2.0,YouTube,moderate,passive browsing,7.0,3
+8/7/2020 14:57,female,23.0,bit,year 3,3.02,no,no,yes,no,no,3,4.5,Snapchat,moderate,mixed,6.5,4
+8/7/2020 13:41,male,18.0,engineering,year 2,3.3,yes,yes,yes,no,no,2,5.5,Instagram,high,messaging,6.5,3
+8/7/2020 12:32,female,23.0,pendidikan islam,year 2,3.63,yes,yes,no,yes,no,3,4.5,YouTube,moderate,passive browsing,4.5,5
+8/7/2020 22:35,female,19.0,bit,year 3,3.0,yes,yes,no,no,no,5,6.5,YouTube,high,messaging,6.5,3
+8/7/2020 21:21,female,18.0,laws,year 3,3.62,no,no,no,yes,no,2,3.0,X,moderate,active posting,7.5,3
+8/7/2020 12:39,female,23.0,engineering,year 3,4.0,yes,yes,no,no,no,4,4.5,Facebook,moderate,active posting,4.0,3
+8/7/2020 14:31,male,19.0,bcs,year 2,3.99,yes,yes,yes,no,yes,2,6.5,TikTok,high,passive browsing,5.5,4
+8/7/2020 14:29,male,20.0,bcs,year 1,3.74,no,no,no,yes,no,3,6.0,Instagram,high,passive browsing,6.0,4
+8/7/2020 15:14,female,18.0,engine,year 4,3.81,no,no,no,no,no,1,2.0,Instagram,moderate,messaging,8.0,4
+8/7/2020 13:13,female,23.0,bcs,year 1,3.51,no,no,no,no,no,1,3.5,TikTok,moderate,mixed,8.5,4
+8/7/2020 16:53,female,19.0,bcs,year 1,3.7,no,no,no,no,no,2,6.0,YouTube,high,passive browsing,4.5,3
+13/07/2020 11:46:13,female,18.0,psychology,year 1,3.85,no,yes,yes,yes,no,2,5.5,Instagram,high,messaging,5.5,1
+8/7/2020 14:43,female,19.0,law,year 3,3.25,no,yes,yes,no,no,4,5.0,Snapchat,high,active posting,4.0,2
+13/07/2020 21:22:56,female,18.0,nursing,year 3,3.56,yes,yes,no,yes,no,3,6.5,YouTube,high,messaging,5.0,4
+8/7/2020 15:07,male,20.53,bit,year 1,1.8,no,no,no,no,no,1,3.5,X,moderate,passive browsing,8.5,3
+13/07/2020 10:33:47,female,18.0,psychology,year 1,3.56,no,yes,yes,no,yes,4,4.0,Snapchat,moderate,passive browsing,7.0,2
+13/07/2020 13:57:11,female,23.0,diploma tesl,year 3,3.54,no,no,no,yes,no,4,3.0,TikTok,moderate,messaging,6.0,5
+8/7/2020 14:41,female,19.0,bit,year 1,3.4,no,yes,yes,yes,no,4,4.0,Instagram,moderate,messaging,4.5,4
+8/7/2020 17:46,female,25.0,engine,year 1,3.59,no,no,no,no,no,2,4.5,TikTok,moderate,mixed,6.5,4
+13/07/2020 21:22:56,female,19.0,nursing,year 3,3.56,yes,yes,no,yes,no,4,7.0,YouTube,high,messaging,6.0,3
+18/07/2020 20:16:21,male,19.0,biomedical science,year 2,3.15,no,no,no,no,no,1,5.0,X,high,mixed,7.5,5
+8/7/2020 15:12,female,18.0,engineering,year 1,3.69,no,no,yes,no,no,3,1.5,TikTok,low,messaging,7.0,5
+9/7/2020 18:24,female,19.0,human sciences,year 2,2.94,no,no,no,yes,no,3,4.0,Instagram,moderate,mixed,6.5,4
+8/7/2020 12:05,male,20.0,bit,year 1,3.4,no,yes,yes,yes,no,5,5.0,YouTube,high,passive browsing,6.5,2
+8/7/2020 12:02,female,18.0,engineering,year 1,3.28,no,yes,no,yes,no,2,4.5,Instagram,moderate,active posting,5.0,3
+8/7/2020 12:13,male,23.0,mathemathics,year 4,3.03,no,no,no,no,no,2,3.5,YouTube,moderate,passive browsing,7.0,4
+13/07/2020 11:54:58,male,24.0,engineering,year 2,2.22,no,no,no,yes,no,4,2.0,YouTube,moderate,passive browsing,6.5,5
+8/7/2020 12:41,male,18.0,engineering,year 1,3.1,no,no,no,no,no,3,3.0,Facebook,moderate,messaging,7.5,4
+8/7/2020 13:35,female,20.0,engineering,year 1,3.54,no,no,no,no,no,2,2.5,TikTok,moderate,messaging,7.0,5
+8/7/2020 12:35,female,19.0,human resources,year 2,2.84,no,no,no,no,no,1,3.5,YouTube,moderate,messaging,8.5,2
+13/07/2020 10:07:32,female,19.0,biotechnology,year 3,0.7,no,no,no,no,no,2,5.5,Snapchat,high,mixed,6.0,3
+8/7/2020 12:43,female,18.0,kenms,year 2,3.62,no,no,yes,no,no,4,5.0,X,high,passive browsing,7.5,2
+13/07/2020 11:54:58,male,23.0,engineering,year 2,2.16,no,no,no,yes,no,3,1.5,TikTok,low,messaging,7.0,3
+8/7/2020 14:57,female,21.0,engineering,year 4,3.72,no,no,no,no,no,2,4.5,TikTok,moderate,messaging,7.0,5
+9/7/2020 13:15,female,23.0,engineering,year 1,3.44,no,yes,no,no,no,3,2.0,Instagram,moderate,passive browsing,8.5,4
+8/7/2020 15:27,female,22.0,ala,year 1,2.95,yes,yes,no,yes,yes,4,3.5,X,moderate,messaging,8.5,1
+8/7/2020 17:05,female,18.0,cts,year 1,4.0,no,no,no,yes,no,3,5.5,TikTok,high,active posting,5.0,5
+13/07/2020 19:08:32,female,18.0,islamic education,year 1,3.72,no,no,no,no,no,4,3.0,TikTok,moderate,mixed,6.5,3
+8/7/2020 15:37,female,18.0,bcs,year 2,3.91,no,no,yes,no,no,4,2.0,TikTok,moderate,passive browsing,5.5,5
+13/07/2020 19:08:32,female,18.0,islamic education,year 1,3.82,no,no,no,no,no,2,3.0,TikTok,moderate,mixed,7.0,4
+8/7/2020 12:06,female,22.0,laws,year 3,3.18,yes,yes,no,no,no,4,5.0,Instagram,high,active posting,6.0,4
+13/07/2020 16:15:13,female,18.0,benl,year 1,3.14,no,yes,no,no,no,2,6.0,Facebook,high,passive browsing,7.0,4
+18/07/2020 20:16:21,male,20.0,biomedical science,year 2,2.9,no,no,no,no,no,1,3.5,YouTube,moderate,mixed,7.0,4
+8/7/2020 13:13,female,24.0,bcs,year 1,3.75,no,no,no,no,no,1,3.5,TikTok,moderate,passive browsing,8.0,4
+8/7/2020 12:43,female,18.0,kenms,year 2,3.55,no,no,yes,no,no,5,5.5,TikTok,high,passive browsing,6.5,4
+8/7/2020 14:58,female,20.0,usuluddin,year 2,3.22,no,yes,no,no,no,2,4.0,Facebook,moderate,messaging,6.5,4
+8/7/2020 13:58,female,25.0,bit,year 3,3.75,yes,yes,yes,yes,yes,4,5.5,Instagram,high,active posting,6.0,4
+8/7/2020 14:43,female,18.0,engineering,year 1,2.41,no,no,no,no,no,1,2.5,TikTok,moderate,messaging,5.5,3
+8/7/2020 12:40,female,18.0,bcs,year 1,3.53,no,yes,no,no,no,3,3.0,TikTok,moderate,passive browsing,6.5,1
+8/7/2020 14:29,male,18.0,bcs,year 2,3.24,no,no,no,no,no,3,2.0,Snapchat,moderate,mixed,7.0,3
+8/7/2020 20:36,female,24.0,biomedical science,year 1,3.54,no,no,no,no,no,2,0.5,TikTok,low,mixed,7.0,5
+8/7/2020 16:22,female,18.0,bcs,year 1,3.62,no,no,no,no,no,3,2.5,Snapchat,moderate,mixed,6.0,4
+13/07/2020 10:33:47,female,18.0,psychology,year 1,3.74,no,yes,yes,no,yes,3,4.0,Snapchat,moderate,passive browsing,7.5,2
+8/7/2020 13:41,male,18.0,engineering,year 2,3.3,yes,yes,yes,no,no,3,6.0,YouTube,high,messaging,5.5,2
+8/7/2020 17:50,female,23.0,econs,year 1,3.83,no,yes,yes,no,no,4,5.0,YouTube,high,passive browsing,5.0,3
+8/7/2020 14:57,female,22.0,engineering,year 4,3.71,no,no,no,no,no,2,4.0,TikTok,moderate,active posting,7.5,4
+8/7/2020 15:08,male,23.0,taasl,year 2,3.56,no,no,no,yes,no,4,4.0,TikTok,moderate,mixed,7.0,4
+8/7/2020 16:53,female,18.0,bcs,year 1,3.64,no,no,no,no,no,2,5.5,YouTube,high,messaging,4.0,4
+8/7/2020 16:08,male,22.0,kirkhs,year 3,3.53,no,no,no,no,no,1,2.5,Instagram,moderate,active posting,7.0,5
+8/7/2020 12:31,male,19.0,engineering,year 2,3.54,no,no,no,yes,no,3,8.0,Facebook,high,passive browsing,5.0,4
+8/7/2020 13:41,male,18.0,engineering,year 2,3.31,yes,yes,yes,no,no,3,7.0,Instagram,high,mixed,6.5,3
+8/7/2020 13:41,male,18.0,engineering,year 2,3.33,yes,yes,yes,no,no,3,5.0,Instagram,high,messaging,6.5,1
+8/7/2020 15:07,male,20.53,bit,year 1,1.82,no,no,no,no,no,3,4.0,X,moderate,passive browsing,8.5,3
+13/07/2020 10:12:28,female,19.0,pendidikan islam,year 2,3.15,no,no,no,no,no,2,2.5,Snapchat,moderate,passive browsing,6.0,5
+8/7/2020 14:05,female,25.0,bcs,year 4,3.43,no,no,no,no,no,1,3.5,YouTube,moderate,messaging,7.5,2
+8/7/2020 16:53,female,19.0,bcs,year 1,3.62,no,no,no,no,no,2,6.5,YouTube,high,passive browsing,4.5,3
+9/7/2020 11:43,male,24.0,bit,year 3,3.79,no,no,yes,no,no,4,4.5,X,moderate,passive browsing,5.5,3
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.2,no,no,yes,no,no,1,1.0,TikTok,low,active posting,6.5,3
+13/07/2020 11:49:02,male,24.0,bit,year 1,3.42,no,no,yes,no,no,3,2.5,Instagram,moderate,passive browsing,7.5,3
+8/7/2020 16:53,female,19.0,bcs,year 1,3.63,no,no,no,no,no,1,6.5,YouTube,high,messaging,4.0,4
+13/07/2020 19:56:49,female,20.0,bcs,year 1,3.88,no,no,yes,no,no,3,3.5,Instagram,moderate,active posting,4.5,5
+8/7/2020 12:02,female,19.0,engineering,year 1,3.23,no,yes,no,yes,no,1,4.5,Instagram,moderate,passive browsing,5.0,3
+8/7/2020 13:35,female,18.0,engineering,year 1,3.52,no,no,no,no,no,2,2.0,TikTok,moderate,messaging,6.5,4
+8/7/2020 16:53,female,20.0,bcs,year 1,3.79,no,no,no,no,no,2,6.0,YouTube,high,passive browsing,4.0,4
+9/7/2020 13:15,female,23.0,engineering,year 1,3.48,no,yes,no,no,no,3,1.0,Instagram,low,mixed,9.0,5
+8/7/2020 12:05,male,18.0,bit,year 1,3.41,no,yes,yes,yes,no,4,6.0,TikTok,high,mixed,7.5,2
+8/7/2020 19:32,female,24.0,kop,year 4,3.46,no,no,yes,no,no,2,4.0,YouTube,moderate,mixed,6.0,2
+8/7/2020 21:21,female,19.0,laws,year 3,3.52,no,no,no,yes,no,2,3.0,Instagram,moderate,active posting,7.0,3
+8/7/2020 13:35,female,19.0,engineering,year 1,3.57,no,no,no,no,no,2,2.0,Snapchat,moderate,messaging,5.5,5
+8/7/2020 12:35,female,20.0,human resources,year 2,2.88,no,no,no,no,no,3,2.0,TikTok,moderate,mixed,8.0,4
+8/7/2020 16:53,female,19.0,bcs,year 1,3.79,no,no,no,no,no,2,6.5,YouTube,high,passive browsing,5.0,4
+8/7/2020 14:43,female,18.0,law,year 3,3.27,no,yes,yes,no,no,4,5.5,Snapchat,high,active posting,4.5,2
+13/07/2020 19:56:49,female,22.0,bcs,year 1,3.72,no,no,yes,no,no,3,3.5,Instagram,moderate,messaging,4.5,5
+8/7/2020 15:27,female,23.0,ala,year 1,2.89,yes,yes,no,yes,yes,3,4.5,TikTok,moderate,messaging,7.5,1
+8/7/2020 15:07,male,20.53,bit,year 1,1.82,no,no,no,no,no,3,3.5,TikTok,moderate,passive browsing,7.5,2
+8/7/2020 13:15,female,24.0,engineering,year 1,3.04,no,no,no,no,no,3,4.5,TikTok,moderate,messaging,6.0,3
+13/07/2020 10:07:32,female,20.0,biotechnology,year 3,0.74,no,no,no,no,no,1,4.0,Snapchat,moderate,mixed,7.0,3
+8/7/2020 16:22,female,19.0,bcs,year 1,3.51,no,no,no,no,no,3,3.0,Facebook,moderate,messaging,5.5,4
+8/7/2020 14:29,male,18.0,bcs,year 2,3.04,no,no,no,no,no,4,2.0,Snapchat,moderate,mixed,8.0,3
+13/07/2020 19:08:32,female,18.0,islamic education,year 1,3.62,no,no,no,no,no,4,3.0,TikTok,moderate,mixed,7.0,4
+13/07/2020 11:46:13,female,19.0,psychology,year 1,3.86,no,yes,yes,yes,no,3,5.5,Instagram,high,passive browsing,6.0,2
+8/7/2020 15:37,female,18.0,bcs,year 2,3.85,no,no,yes,no,no,4,2.0,Instagram,moderate,passive browsing,6.0,5
+8/7/2020 16:53,female,19.0,bcs,year 1,3.55,no,no,no,no,no,2,6.5,YouTube,high,passive browsing,4.0,5
+8/7/2020 16:21,female,21.0,benl,year 3,2.87,no,yes,yes,no,no,5,6.0,TikTok,high,active posting,6.5,3
+8/7/2020 15:37,female,18.0,bcs,year 2,3.89,no,no,yes,no,no,3,1.0,TikTok,low,messaging,7.0,5
+8/7/2020 12:39,female,24.0,engineering,year 3,4.0,yes,yes,no,no,no,4,5.0,Instagram,high,active posting,5.5,4
+8/7/2020 14:47,female,18.0,kirkhs,year 1,3.97,no,no,no,no,no,1,5.0,TikTok,high,passive browsing,7.5,4
+8/7/2020 12:04,male,22.0,islamic education,year 2,3.43,no,no,yes,no,no,4,4.0,Instagram,moderate,active posting,6.0,3
+8/7/2020 12:05,male,20.0,bit,year 1,3.31,no,yes,yes,yes,no,5,6.0,YouTube,high,passive browsing,6.0,2
+18/07/2020 20:16:21,male,21.0,biomedical science,year 2,3.06,no,no,no,no,no,2,3.5,Instagram,moderate,mixed,7.5,3
+8/7/2020 15:58,male,21.0,bcs,year 1,3.37,no,no,no,no,no,1,2.0,X,moderate,active posting,6.0,4
+13/07/2020 10:11:26,female,25.0,communication,year 2,3.95,yes,yes,yes,yes,no,5,7.5,Instagram,high,mixed,5.5,1
+8/7/2020 16:22,female,19.0,bcs,year 1,3.58,no,no,no,no,no,2,3.0,Facebook,moderate,mixed,6.5,4
+8/7/2020 12:04,male,21.0,islamic education,year 2,3.57,no,no,yes,no,no,3,4.5,Instagram,moderate,active posting,7.0,2
+8/7/2020 12:04,male,22.0,islamic education,year 2,3.46,no,no,yes,no,no,4,4.5,Instagram,moderate,active posting,6.5,4
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.33,no,no,yes,no,no,2,1.0,Snapchat,low,active posting,6.5,3
+8/7/2020 15:48,female,20.0,koe,year 3,3.37,yes,yes,yes,yes,no,5,4.5,TikTok,moderate,mixed,4.0,1
+13/07/2020 10:34:08,female,19.0,fiqh fatwa,year 3,3.29,no,no,no,no,no,2,5.0,Instagram,high,mixed,7.0,4
+18/07/2020 20:16:21,male,19.0,biomedical science,year 2,3.0,no,no,no,no,no,1,3.5,X,moderate,mixed,7.0,5
+13/07/2020 19:08:32,female,18.0,islamic education,year 1,3.78,no,no,no,no,no,3,3.5,TikTok,moderate,mixed,6.5,4
+13/07/2020 19:56:49,female,21.0,bcs,year 1,3.83,no,no,yes,no,no,4,4.5,Instagram,moderate,messaging,4.0,3
+8/7/2020 12:02,female,18.0,engineering,year 1,3.12,no,yes,no,yes,no,3,3.5,Instagram,moderate,messaging,5.0,3
+8/7/2020 13:05,female,20.0,bit,year 2,3.84,no,no,yes,no,no,3,3.5,Instagram,moderate,passive browsing,6.0,5
+8/7/2020 12:04,male,20.0,islamic education,year 2,3.45,no,no,yes,no,no,4,5.5,Instagram,high,passive browsing,5.0,3
+8/7/2020 15:47,female,19.0,biomedical science,year 3,3.46,no,no,no,no,no,4,4.0,X,moderate,mixed,6.5,3
+8/7/2020 15:07,male,20.53,bit,year 1,1.75,no,no,no,no,no,1,3.5,X,moderate,passive browsing,7.5,3
+13/07/2020 11:54:58,male,24.0,engineering,year 2,2.04,no,no,no,yes,no,5,3.0,TikTok,moderate,messaging,6.0,5
+8/7/2020 14:29,male,18.0,bcs,year 2,3.15,no,no,no,no,no,4,2.5,Instagram,moderate,mixed,6.0,5
+8/7/2020 19:32,female,24.0,kop,year 4,3.54,no,no,yes,no,no,1,3.0,Instagram,moderate,mixed,5.0,2
+8/7/2020 14:29,male,19.0,bcs,year 2,3.06,no,no,no,no,no,2,2.5,YouTube,moderate,passive browsing,6.5,4
+8/7/2020 18:11,male,19.0,mhsc,year 3,3.4,yes,yes,no,yes,no,4,6.5,Snapchat,high,active posting,4.5,4
+8/7/2020 15:57,female,19.0,bcs,year 1,3.84,no,yes,no,yes,yes,3,4.5,Instagram,moderate,mixed,7.5,3
+9/7/2020 11:43,male,23.0,bit,year 3,3.72,no,no,yes,no,no,3,3.5,X,moderate,passive browsing,5.5,4
+8/7/2020 15:58,male,22.0,bcs,year 1,3.41,no,no,no,no,no,2,2.5,X,moderate,mixed,6.5,3
+8/7/2020 12:46,female,23.0,accounting,year 3,3.21,no,no,no,no,no,2,4.0,Instagram,moderate,passive browsing,7.0,5
+8/7/2020 14:45,female,20.0,bit,year 1,2.45,no,yes,yes,yes,no,4,6.0,TikTok,high,messaging,5.0,2
+8/7/2020 13:15,female,24.0,engineering,year 1,3.2,no,no,no,no,no,2,5.5,X,high,messaging,5.5,2
+8/7/2020 19:05,female,19.0,malcom,year 1,3.43,no,yes,no,no,no,3,2.5,Snapchat,moderate,active posting,5.5,4
+13/07/2020 21:21:42,male,18.0,engineering,year 2,3.25,no,yes,yes,no,no,4,4.0,Snapchat,moderate,mixed,7.0,4
+8/7/2020 19:32,female,25.0,kop,year 4,3.48,no,no,yes,no,no,2,3.5,Facebook,moderate,mixed,7.0,3
+13/07/2020 10:33:47,female,18.0,psychology,year 1,3.53,no,yes,yes,no,yes,4,5.0,Snapchat,high,passive browsing,5.5,1
+8/7/2020 12:39,female,20.0,psychology,year 1,3.6,no,no,no,no,no,2,4.0,YouTube,moderate,mixed,6.5,3
+8/7/2020 12:43,male,24.0,bcs,year 3,3.53,no,no,no,no,no,1,3.5,Instagram,moderate,mixed,7.5,2
+13/07/2020 19:56:49,female,21.0,bcs,year 1,3.7,no,no,yes,no,no,4,2.5,Instagram,moderate,messaging,4.0,4
+8/7/2020 22:35,female,19.0,bit,year 3,3.02,yes,yes,no,no,no,5,6.5,YouTube,high,active posting,7.5,3
+8/7/2020 16:22,female,19.0,bcs,year 1,3.61,no,no,no,no,no,3,2.5,Facebook,moderate,passive browsing,6.0,5
+8/7/2020 19:32,female,25.0,kop,year 4,3.4,no,no,yes,no,no,2,4.5,Instagram,moderate,messaging,7.0,3
+13/07/2020 10:10:30,female,18.0,engineering,year 4,3.56,no,no,no,no,no,3,4.5,YouTube,moderate,messaging,8.5,3
+13/07/2020 14:48:05,female,19.0,koe,year 2,3.4,yes,yes,no,no,no,2,2.0,Facebook,moderate,passive browsing,6.5,2
+8/7/2020 12:05,male,19.0,bit,year 1,3.42,no,yes,yes,yes,no,5,5.0,YouTube,high,passive browsing,7.0,1
+8/7/2020 13:07,female,18.0,marine science,year 2,3.66,yes,yes,yes,yes,no,4,5.0,Instagram,high,passive browsing,4.5,5
+8/7/2020 16:22,female,18.0,bcs,year 1,3.49,no,no,no,no,no,4,3.0,Facebook,moderate,mixed,6.0,5
+8/7/2020 14:43,female,18.0,engineering,year 1,2.33,no,no,no,no,no,1,3.5,Snapchat,moderate,mixed,6.0,4
+8/7/2020 13:05,female,20.0,bit,year 2,3.73,no,no,yes,no,no,3,3.5,Instagram,moderate,passive browsing,6.0,5
+13/07/2020 11:54:58,male,24.0,engineering,year 2,2.14,no,no,no,yes,no,4,1.5,TikTok,low,messaging,7.0,3
+8/7/2020 18:10,female,18.0,koe,year 3,2.84,no,no,yes,no,no,2,4.5,Snapchat,moderate,messaging,5.5,5
+8/7/2020 13:05,female,20.0,bit,year 2,3.75,no,no,yes,no,no,3,3.0,Instagram,moderate,passive browsing,5.0,4
+8/7/2020 13:07,female,18.0,marine science,year 2,3.72,yes,yes,yes,yes,no,4,4.0,TikTok,moderate,mixed,4.0,5
+13/07/2020 19:08:32,female,18.0,islamic education,year 1,3.56,no,no,no,no,no,3,4.0,TikTok,moderate,mixed,6.5,5
+8/7/2020 20:36,female,25.0,biomedical science,year 1,3.3,no,no,no,no,no,2,0.5,TikTok,low,mixed,7.5,3
+8/7/2020 15:37,female,18.0,bcs,year 2,3.94,no,no,yes,no,no,4,2.5,TikTok,moderate,passive browsing,7.5,5
+8/7/2020 14:29,male,19.0,bcs,year 1,3.69,no,no,no,yes,no,3,5.5,Snapchat,high,mixed,5.5,4
+8/7/2020 14:56,female,24.0,engineering,year 2,2.72,yes,yes,no,yes,yes,4,6.5,TikTok,high,mixed,4.5,3
+8/7/2020 14:47,female,18.0,kirkhs,year 1,3.78,no,no,no,no,no,1,4.5,TikTok,moderate,messaging,7.5,5
+13/07/2020 10:12:18,female,25.0,diploma nursing,year 2,3.8,no,no,no,no,no,2,1.5,Instagram,low,mixed,7.5,5
+8/7/2020 12:02,female,18.0,engineering,year 1,3.29,no,yes,no,yes,no,2,4.5,Instagram,moderate,passive browsing,5.0,4
+8/7/2020 12:39,female,19.0,psychology,year 1,3.46,no,no,no,no,no,2,4.5,Instagram,moderate,mixed,7.0,2
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.29,no,no,yes,no,no,2,1.5,Snapchat,low,active posting,7.0,4
+8/7/2020 16:08,male,24.0,kirkhs,year 3,3.5,no,no,no,no,no,2,2.0,Snapchat,moderate,messaging,7.0,5
+13/07/2020 11:49:02,male,25.0,bit,year 1,3.35,no,no,yes,no,no,3,2.5,Facebook,moderate,passive browsing,6.5,3
+8/7/2020 15:18,female,24.0,bcs,year 3,3.6,no,no,no,yes,no,3,3.5,TikTok,moderate,active posting,5.5,3
+8/7/2020 13:13,female,24.0,bcs,year 1,3.78,no,no,no,no,no,1,5.0,TikTok,high,passive browsing,6.5,4
+8/7/2020 14:27,female,22.0,business administration,year 2,3.33,no,no,no,no,no,1,5.0,Instagram,high,messaging,9.0,3
+13/07/2020 16:15:13,female,19.0,benl,year 1,3.26,no,yes,no,no,no,3,5.0,Facebook,high,messaging,6.0,5
+8/7/2020 14:57,female,22.0,engineering,year 4,3.73,no,no,no,no,no,2,3.5,TikTok,moderate,active posting,7.0,5
+13/07/2020 21:22:56,female,20.0,nursing,year 3,3.38,yes,yes,no,yes,no,4,8.0,YouTube,high,messaging,6.5,5
+8/7/2020 12:32,female,23.0,pendidikan islam,year 2,3.6,yes,yes,no,yes,no,2,5.5,YouTube,high,passive browsing,4.0,5
+8/7/2020 12:43,male,24.0,bcs,year 3,3.58,no,no,no,no,no,2,3.0,Instagram,moderate,mixed,7.5,1
+13/07/2020 11:54:58,male,24.0,engineering,year 2,2.22,no,no,no,yes,no,5,2.5,TikTok,moderate,messaging,7.5,4
+8/7/2020 16:34,female,23.0,benl,year 1,3.42,no,no,no,no,no,3,3.5,Facebook,moderate,mixed,6.5,4
+8/7/2020 12:04,male,20.0,islamic education,year 2,3.49,no,no,yes,no,no,4,5.0,Instagram,high,active posting,5.5,3
+8/7/2020 12:02,female,18.0,engineering,year 1,3.12,no,yes,no,yes,no,2,4.0,Facebook,moderate,passive browsing,5.0,4
+8/7/2020 15:14,female,18.0,engine,year 4,3.73,no,no,no,no,no,1,1.5,Instagram,low,active posting,8.0,5
+8/7/2020 12:39,female,24.0,engineering,year 3,4.0,yes,yes,no,no,no,4,4.0,Facebook,moderate,active posting,4.5,4
+8/7/2020 19:05,female,18.0,malcom,year 1,3.55,no,yes,no,no,no,2,2.5,X,moderate,messaging,5.5,3
+8/7/2020 14:43,female,18.0,law,year 3,3.03,no,yes,yes,no,no,5,5.0,Snapchat,high,active posting,4.0,3
+8/7/2020 14:29,male,19.0,bcs,year 2,3.15,no,no,no,no,no,3,4.0,Snapchat,moderate,mixed,6.5,4
+8/7/2020 12:35,female,20.0,human resources,year 2,2.74,no,no,no,no,no,3,3.0,YouTube,moderate,mixed,8.0,3
+13/07/2020 21:22:56,female,20.0,nursing,year 3,3.66,yes,yes,no,yes,no,4,7.5,YouTube,high,messaging,5.5,4
+8/7/2020 13:05,female,21.0,bit,year 2,3.81,no,no,yes,no,no,3,4.0,YouTube,moderate,passive browsing,6.0,4
+8/7/2020 15:14,female,18.0,engine,year 4,3.72,no,no,no,no,no,1,3.5,Instagram,moderate,messaging,6.5,4
+13/07/2020 10:10:30,female,18.0,engineering,year 4,3.66,no,no,no,no,no,4,4.0,YouTube,moderate,messaging,8.5,4
+8/7/2020 12:05,male,19.0,bit,year 1,3.37,no,yes,yes,yes,no,5,6.0,YouTube,high,passive browsing,6.5,2
+8/7/2020 13:07,female,18.0,marine science,year 2,3.72,yes,yes,yes,yes,no,4,5.5,YouTube,high,mixed,4.5,5
+8/7/2020 13:15,female,23.0,engineering,year 1,3.22,no,no,no,no,no,2,3.5,X,moderate,messaging,5.5,3
+8/7/2020 15:48,female,21.0,koe,year 3,3.37,yes,yes,yes,yes,no,5,5.5,TikTok,high,mixed,4.5,1
+8/7/2020 14:29,male,19.0,bcs,year 1,3.48,no,no,no,yes,no,3,5.0,Snapchat,high,passive browsing,6.0,5
+8/7/2020 13:15,female,24.0,engineering,year 1,3.26,no,no,no,no,no,2,4.5,X,moderate,messaging,6.0,3
+9/7/2020 11:43,male,24.0,bit,year 3,3.82,no,no,yes,no,no,4,3.0,X,moderate,passive browsing,6.5,4
+8/7/2020 21:21,female,18.0,laws,year 3,3.57,no,no,no,yes,no,2,2.5,TikTok,moderate,active posting,7.5,3
+8/7/2020 14:43,female,18.0,engineering,year 1,2.32,no,no,no,no,no,1,3.5,Snapchat,moderate,active posting,7.5,4
+8/7/2020 14:45,female,18.0,bit,year 1,2.58,no,yes,yes,yes,no,4,6.0,Facebook,high,messaging,5.5,2
+13/07/2020 10:12:28,female,20.0,pendidikan islam,year 2,3.2,no,no,no,no,no,3,2.5,YouTube,moderate,passive browsing,6.5,5
+13/07/2020 21:22:56,female,19.0,nursing,year 3,3.42,yes,yes,no,yes,no,3,7.0,YouTube,high,messaging,5.0,4
+13/07/2020 11:49:02,male,23.0,bit,year 1,3.43,no,no,yes,no,no,4,3.0,Facebook,moderate,passive browsing,6.0,3
+13/07/2020 21:22:56,female,20.0,nursing,year 3,3.62,yes,yes,no,yes,no,3,7.0,YouTube,high,messaging,5.5,4
+8/7/2020 13:17,female,24.0,bcs,year 3,3.72,no,yes,yes,yes,no,3,7.0,Instagram,high,mixed,4.5,3
+13/07/2020 14:48:05,female,20.0,koe,year 2,3.41,yes,yes,no,no,no,2,2.5,Facebook,moderate,passive browsing,6.0,1
+8/7/2020 12:52,female,25.0,enm,year 4,3.18,yes,yes,yes,yes,no,5,7.0,Instagram,high,mixed,5.5,2
+13/07/2020 10:12:18,female,24.0,diploma nursing,year 2,3.84,no,no,no,no,no,1,3.0,Instagram,moderate,passive browsing,7.5,5
+8/7/2020 17:50,female,23.0,econs,year 1,3.76,no,yes,yes,no,no,3,5.5,Instagram,high,passive browsing,6.0,4
+8/7/2020 15:48,female,19.0,koe,year 3,3.52,yes,yes,yes,yes,no,5,4.0,TikTok,moderate,mixed,4.0,1
+8/7/2020 14:41,female,19.0,bit,year 1,3.56,no,yes,yes,yes,no,5,4.5,Instagram,moderate,active posting,4.5,3
+13/07/2020 10:10:30,female,18.0,engineering,year 4,3.77,no,no,no,no,no,3,4.0,YouTube,moderate,messaging,7.5,5
+8/7/2020 16:34,female,18.0,it,year 3,3.24,no,no,no,yes,no,3,4.0,YouTube,moderate,passive browsing,8.0,4
+8/7/2020 14:57,female,24.0,bit,year 3,3.09,no,no,yes,no,no,3,3.0,TikTok,moderate,active posting,6.5,3
+13/07/2020 21:23:57,female,23.0,pendidikan islam,year 4,3.57,no,no,no,no,no,2,2.5,TikTok,moderate,passive browsing,7.0,3
+8/7/2020 14:29,male,18.0,bcs,year 1,3.5,no,no,no,yes,no,2,6.5,Snapchat,high,passive browsing,5.5,3
+8/7/2020 18:11,male,19.0,mhsc,year 3,3.42,yes,yes,no,yes,no,3,6.0,YouTube,high,active posting,5.0,4
+8/7/2020 14:29,male,19.0,bcs,year 1,3.51,no,no,no,yes,no,2,5.0,Snapchat,high,passive browsing,5.5,4
+8/7/2020 12:41,male,18.0,engineering,year 1,3.11,no,no,no,no,no,2,3.5,X,moderate,passive browsing,6.5,4
+8/7/2020 13:12,female,20.0,engineering,year 1,3.41,no,no,no,yes,no,4,2.0,YouTube,moderate,messaging,7.5,2
+8/7/2020 15:14,female,18.0,engine,year 4,3.68,no,no,no,no,no,1,3.0,Instagram,moderate,messaging,8.0,4
+8/7/2020 13:07,female,18.0,marine science,year 2,3.74,yes,yes,yes,yes,no,5,4.5,Instagram,moderate,mixed,4.0,4
+8/7/2020 12:33,female,18.0,bcs,year 1,4.0,no,no,yes,no,no,2,2.5,TikTok,moderate,messaging,8.0,4
+8/7/2020 12:32,female,24.0,pendidikan islam,year 2,3.52,yes,yes,no,yes,no,4,4.5,YouTube,moderate,passive browsing,4.0,5
+8/7/2020 18:10,female,18.0,koe,year 3,2.9,no,no,yes,no,no,3,4.5,Snapchat,moderate,messaging,6.5,5
+8/7/2020 12:46,female,24.0,accounting,year 3,3.1,no,no,no,no,no,2,3.5,Instagram,moderate,passive browsing,8.0,5
+8/7/2020 14:29,male,19.0,bcs,year 1,3.63,no,no,no,yes,no,2,5.5,Snapchat,high,mixed,6.0,4
+8/7/2020 15:14,female,18.0,engine,year 4,3.76,no,no,no,no,no,2,2.5,Instagram,moderate,messaging,8.0,4
+9/7/2020 11:57,female,25.0,koe,year 1,3.78,no,no,yes,yes,no,4,5.0,Instagram,high,mixed,5.5,4
+8/7/2020 16:22,female,18.0,bcs,year 1,3.48,no,no,no,no,no,2,2.5,Facebook,moderate,mixed,6.0,4
+13/07/2020 10:33:47,female,18.0,psychology,year 1,3.73,no,yes,yes,no,yes,4,5.0,Snapchat,high,passive browsing,6.5,1
+8/7/2020 13:13,female,19.0,koe,year 2,3.11,no,no,no,no,no,2,4.5,Snapchat,moderate,mixed,7.0,4
+8/7/2020 14:05,female,25.0,bcs,year 4,3.5,no,no,no,no,no,1,4.0,YouTube,moderate,passive browsing,6.5,3
+8/7/2020 14:45,female,19.0,bit,year 1,2.52,no,yes,yes,yes,no,3,5.5,Facebook,high,messaging,5.0,2
+8/7/2020 15:27,female,24.0,ala,year 1,2.95,yes,yes,no,yes,yes,3,3.0,Instagram,moderate,messaging,8.0,1
+8/7/2020 15:48,female,20.0,koe,year 3,3.37,yes,yes,yes,yes,no,5,5.0,TikTok,high,mixed,4.0,1
+8/7/2020 12:33,female,18.0,bcs,year 1,4.0,no,no,yes,no,no,3,2.0,TikTok,moderate,messaging,8.0,5
+8/7/2020 13:35,female,19.0,engineering,year 1,3.57,no,no,no,no,no,2,3.5,TikTok,moderate,passive browsing,6.0,4
+8/7/2020 13:35,female,19.0,engineering,year 1,3.7,no,no,no,no,no,2,1.5,TikTok,low,messaging,6.0,5
+13/07/2020 21:21:42,male,18.0,engineering,year 2,3.33,no,yes,yes,no,no,4,6.0,Snapchat,high,mixed,6.0,5
+8/7/2020 13:12,female,20.0,engineering,year 1,3.38,no,no,no,yes,no,4,4.0,YouTube,moderate,messaging,7.0,3
+8/7/2020 14:05,female,25.0,bcs,year 4,3.49,no,no,no,no,no,1,4.0,YouTube,moderate,messaging,5.5,2
+13/07/2020 19:56:49,female,20.0,bcs,year 1,3.79,no,no,yes,no,no,4,4.5,TikTok,moderate,messaging,5.0,4
+8/7/2020 13:41,male,19.0,engineering,year 2,3.25,yes,yes,yes,no,no,4,6.0,TikTok,high,messaging,6.5,3
+8/7/2020 17:37,female,23.0,engin,year 1,3.61,no,no,no,yes,no,3,5.5,TikTok,high,mixed,5.5,3
+13/07/2020 19:56:49,female,21.0,bcs,year 1,3.79,no,no,yes,no,no,3,3.5,Instagram,moderate,mixed,4.0,3
+8/7/2020 19:05,female,18.0,malcom,year 1,3.45,no,yes,no,no,no,1,3.5,Snapchat,moderate,mixed,6.0,4
+8/7/2020 16:34,female,18.0,it,year 3,3.29,no,no,no,yes,no,3,3.0,TikTok,moderate,active posting,8.0,4
+8/7/2020 15:14,female,19.0,engine,year 4,3.72,no,no,no,no,no,1,2.5,Instagram,moderate,messaging,7.0,4
+8/7/2020 13:05,female,21.0,bit,year 2,3.74,no,no,yes,no,no,3,2.5,Instagram,moderate,passive browsing,5.5,4
+8/7/2020 12:06,female,22.0,laws,year 3,3.31,yes,yes,no,no,no,3,5.5,Instagram,high,active posting,8.0,4
+8/7/2020 14:41,female,18.0,bit,year 1,3.45,no,yes,yes,yes,no,5,4.5,TikTok,moderate,mixed,5.0,4
+8/7/2020 17:37,female,24.0,engin,year 1,3.73,no,no,no,yes,no,3,5.5,Snapchat,high,mixed,5.0,2
+8/7/2020 15:14,male,24.0,bcs,year 2,3.23,no,yes,no,no,no,2,3.5,X,moderate,active posting,5.0,5
+8/7/2020 12:46,female,25.0,accounting,year 3,3.22,no,no,no,no,no,2,3.5,Instagram,moderate,passive browsing,7.0,5
+8/7/2020 15:07,male,20.53,bit,year 1,1.7,no,no,no,no,no,2,3.5,X,moderate,passive browsing,8.0,2
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.36,no,no,yes,no,no,1,1.5,Snapchat,low,active posting,6.5,3
+8/7/2020 14:05,female,24.0,bcs,year 4,3.68,no,no,no,no,no,1,4.5,YouTube,moderate,messaging,6.0,3
+13/07/2020 14:48:05,female,19.0,koe,year 2,3.29,yes,yes,no,no,no,1,1.0,Facebook,low,passive browsing,7.0,2
+8/7/2020 15:09,male,18.0,bcs,year 1,3.78,no,no,yes,yes,no,4,3.0,TikTok,moderate,mixed,6.5,3
+8/7/2020 12:31,male,18.0,engineering,year 2,3.62,no,no,no,yes,no,2,7.0,Facebook,high,passive browsing,6.0,4
+13/07/2020 21:22:56,female,19.0,nursing,year 3,3.52,yes,yes,no,yes,no,3,8.0,YouTube,high,active posting,5.5,4
+8/7/2020 14:43,female,18.0,law,year 3,3.18,no,yes,yes,no,no,4,4.5,Snapchat,moderate,messaging,4.5,4
+8/7/2020 13:15,female,25.0,engineering,year 1,3.22,no,no,no,no,no,2,3.0,TikTok,moderate,active posting,5.5,4
+13/07/2020 14:48:05,female,19.0,koe,year 2,3.42,yes,yes,no,no,no,3,3.0,Facebook,moderate,passive browsing,7.0,2
+8/7/2020 15:09,male,18.0,bcs,year 1,3.92,no,no,yes,yes,no,4,3.0,Snapchat,moderate,mixed,5.0,3
+8/7/2020 15:47,female,20.0,biomedical science,year 3,3.49,no,no,no,no,no,3,3.0,X,moderate,mixed,6.5,3
+13/07/2020 17:30:44,female,23.0,fiqh,year 3,1.51,no,no,no,yes,no,3,5.0,X,high,messaging,5.5,4
+13/07/2020 21:22:56,female,20.0,nursing,year 3,3.56,yes,yes,no,yes,no,3,7.5,Snapchat,high,messaging,5.0,4
+8/7/2020 16:34,female,23.0,benl,year 1,3.31,no,no,no,no,no,4,3.0,Facebook,moderate,mixed,6.5,3
+13/07/2020 19:56:49,female,20.0,bcs,year 1,3.75,no,no,yes,no,no,3,2.0,TikTok,moderate,messaging,4.5,4
+8/7/2020 17:05,female,18.0,cts,year 1,3.83,no,no,no,yes,no,3,6.5,TikTok,high,passive browsing,5.5,4
+13/07/2020 10:14:46,male,23.0,radiography,year 1,3.24,no,no,no,no,no,2,2.5,Snapchat,moderate,active posting,6.0,5
+8/7/2020 14:29,male,18.0,bcs,year 2,3.07,no,no,no,no,no,4,2.5,Snapchat,moderate,mixed,6.5,4
+13/07/2020 10:34:08,female,19.0,fiqh fatwa,year 3,3.19,no,no,no,no,no,1,4.5,Instagram,moderate,mixed,7.5,4
+8/7/2020 14:29,male,19.0,bcs,year 1,3.6,no,no,no,yes,no,3,5.5,Snapchat,high,mixed,5.5,3
+8/7/2020 18:10,female,18.0,koe,year 3,3.03,no,no,yes,no,no,3,4.5,Snapchat,moderate,messaging,6.5,5
+8/7/2020 12:52,female,23.0,enm,year 4,3.25,yes,yes,yes,yes,no,5,7.5,Instagram,high,mixed,4.5,2
+8/7/2020 13:17,female,24.0,bcs,year 3,3.76,no,yes,yes,yes,no,4,8.5,X,high,active posting,4.5,4
+13/07/2020 17:30:44,female,25.0,fiqh,year 3,1.55,no,no,no,yes,no,3,5.0,Snapchat,high,active posting,5.5,5
+8/7/2020 15:48,female,21.0,koe,year 3,3.5,yes,yes,yes,yes,no,5,5.0,YouTube,high,mixed,4.0,1
+8/7/2020 16:21,female,20.0,benl,year 3,3.07,no,yes,yes,no,no,5,7.0,TikTok,high,active posting,6.5,4
+8/7/2020 18:10,female,18.0,koe,year 3,3.11,no,no,yes,no,no,3,5.5,Instagram,high,active posting,6.0,5
+8/7/2020 15:09,male,18.0,bcs,year 1,3.81,no,no,yes,yes,no,4,4.0,Snapchat,moderate,mixed,4.5,3
+8/7/2020 13:15,female,23.0,engineering,year 1,3.24,no,no,no,no,no,2,4.5,X,moderate,messaging,6.0,4
+8/7/2020 14:29,male,18.0,bcs,year 2,3.13,no,no,no,no,no,2,2.0,Snapchat,moderate,mixed,6.0,4
+8/7/2020 15:12,female,19.0,engineering,year 1,3.59,no,no,yes,no,no,3,3.0,Instagram,moderate,active posting,5.5,5
+13/07/2020 10:33:47,female,18.0,psychology,year 1,3.75,no,yes,yes,no,yes,4,4.5,Snapchat,moderate,passive browsing,7.5,2
+8/7/2020 13:13,female,24.0,bcs,year 1,3.61,no,no,no,no,no,1,2.5,TikTok,moderate,mixed,7.5,5
+8/7/2020 17:50,female,23.0,econs,year 1,3.83,no,yes,yes,no,no,2,6.0,YouTube,high,passive browsing,5.0,3
+8/7/2020 13:35,female,19.0,engineering,year 1,3.63,no,no,no,no,no,2,2.5,Snapchat,moderate,messaging,6.5,5
+8/7/2020 12:04,male,21.0,islamic education,year 2,3.62,no,no,yes,no,no,4,4.5,Instagram,moderate,passive browsing,7.0,3
+13/07/2020 11:54:58,male,25.0,engineering,year 2,2.21,no,no,no,yes,no,4,2.0,TikTok,moderate,messaging,5.5,4
+8/7/2020 12:46,female,24.0,accounting,year 3,3.12,no,no,no,no,no,2,4.0,Instagram,moderate,mixed,6.5,5
+8/7/2020 14:29,male,19.0,bcs,year 1,3.53,no,no,no,yes,no,2,6.0,Snapchat,high,passive browsing,6.5,5
+8/7/2020 12:35,female,18.0,human resources,year 2,2.77,no,no,no,no,no,3,3.0,Instagram,moderate,mixed,9.0,2
+8/7/2020 14:58,female,20.0,usuluddin,year 2,3.08,no,yes,no,no,no,3,5.0,Facebook,high,messaging,6.5,5
+8/7/2020 15:14,female,18.0,engine,year 4,3.63,no,no,no,no,no,1,4.0,Instagram,moderate,mixed,7.0,5
+8/7/2020 14:47,female,18.0,kirkhs,year 1,3.76,no,no,no,no,no,1,4.5,TikTok,moderate,passive browsing,8.0,5
+13/07/2020 14:48:05,female,18.0,koe,year 2,3.28,yes,yes,no,no,no,2,2.5,Facebook,moderate,passive browsing,7.5,1
+8/7/2020 14:57,female,22.0,engineering,year 4,3.83,no,no,no,no,no,3,5.0,Facebook,high,passive browsing,7.5,5
+8/7/2020 13:29,female,18.0,banking studies,year 1,4.0,no,no,no,no,no,2,3.0,Snapchat,moderate,messaging,6.5,5
+13/07/2020 21:22:56,female,19.0,nursing,year 3,3.5,yes,yes,no,yes,no,2,7.5,Instagram,high,messaging,5.5,5
+8/7/2020 15:18,female,25.0,bcs,year 3,3.58,no,no,no,yes,no,3,5.0,TikTok,high,mixed,5.5,3
+8/7/2020 13:17,female,22.0,bcs,year 3,3.74,no,yes,yes,yes,no,5,8.0,Instagram,high,passive browsing,4.5,4
+8/7/2020 13:15,female,24.0,engineering,year 1,3.27,no,no,no,no,no,2,3.5,X,moderate,messaging,6.0,4
+8/7/2020 12:40,female,19.0,bcs,year 1,3.34,no,yes,no,no,no,3,3.0,Snapchat,moderate,passive browsing,6.5,1
+8/7/2020 16:34,female,23.0,benl,year 1,3.18,no,no,no,no,no,3,3.0,Facebook,moderate,active posting,6.5,2
+8/7/2020 12:32,female,23.0,pendidikan islam,year 2,3.61,yes,yes,no,yes,no,3,4.5,YouTube,moderate,passive browsing,5.0,5
+8/7/2020 16:08,male,23.0,kirkhs,year 3,3.58,no,no,no,no,no,1,2.5,Instagram,moderate,messaging,7.0,5
+8/7/2020 14:43,female,18.0,engineering,year 1,2.42,no,no,no,no,no,1,2.5,TikTok,moderate,mixed,7.0,3
+8/7/2020 15:08,male,24.0,taasl,year 2,3.71,no,no,no,yes,no,2,4.0,TikTok,moderate,mixed,7.5,5
+8/7/2020 13:07,female,18.0,marine science,year 2,3.43,yes,yes,yes,yes,no,4,5.0,X,high,mixed,4.0,5
+8/7/2020 17:46,female,25.0,engine,year 1,3.69,no,no,no,no,no,2,3.5,TikTok,moderate,mixed,7.0,4
+8/7/2020 12:33,female,18.0,bcs,year 1,3.88,no,no,yes,no,no,3,3.0,TikTok,moderate,messaging,7.5,5
+8/7/2020 12:43,male,24.0,bcs,year 3,3.44,no,no,no,no,no,1,3.0,Instagram,moderate,mixed,6.5,2
+8/7/2020 12:41,male,18.0,engineering,year 1,3.14,no,no,no,no,no,2,3.5,YouTube,moderate,mixed,8.0,5
+9/7/2020 11:57,female,24.0,koe,year 1,3.97,no,no,yes,yes,no,5,4.5,TikTok,moderate,mixed,7.0,4
+13/07/2020 10:34:08,female,19.0,fiqh fatwa,year 3,3.35,no,no,no,no,no,1,5.5,Instagram,high,mixed,6.0,4
+8/7/2020 12:43,female,19.0,kenms,year 2,3.67,no,no,yes,no,no,3,4.5,X,moderate,passive browsing,7.0,3
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.48,no,no,yes,no,no,1,2.0,Snapchat,moderate,active posting,7.0,3
+13/07/2020 21:21:42,male,19.0,engineering,year 2,3.32,no,yes,yes,no,no,5,5.0,Instagram,high,mixed,6.5,5
+8/7/2020 17:50,female,22.0,econs,year 1,3.9,no,yes,yes,no,no,3,5.5,Instagram,high,passive browsing,5.5,3
+8/7/2020 14:29,male,19.0,bcs,year 2,3.14,no,no,no,no,no,3,1.5,Snapchat,low,mixed,6.5,3
+13/07/2020 10:34:08,female,19.0,fiqh fatwa,year 3,3.37,no,no,no,no,no,1,4.5,Instagram,moderate,mixed,7.0,4
+8/7/2020 17:05,female,18.0,cts,year 1,3.78,no,no,no,yes,no,3,6.5,TikTok,high,passive browsing,5.0,4
+13/07/2020 10:33:47,female,19.0,psychology,year 1,3.64,no,yes,yes,no,yes,5,4.0,Snapchat,moderate,active posting,5.5,1
+8/7/2020 15:27,female,23.0,ala,year 1,2.91,yes,yes,no,yes,yes,4,4.5,Snapchat,moderate,messaging,8.5,1
+8/7/2020 13:17,female,23.0,bcs,year 3,3.9,no,yes,yes,yes,no,4,7.0,Instagram,high,mixed,5.0,3
+8/7/2020 16:21,female,19.0,benl,year 3,3.09,no,yes,yes,no,no,3,7.0,TikTok,high,passive browsing,6.5,4
+8/7/2020 17:05,female,18.0,cts,year 1,3.92,no,no,no,yes,no,2,5.5,TikTok,high,active posting,5.5,4
+8/7/2020 16:53,female,20.0,bcs,year 1,3.68,no,no,no,no,no,1,6.5,YouTube,high,passive browsing,5.0,5
+8/7/2020 13:13,female,18.0,koe,year 2,3.07,no,no,no,no,no,2,4.5,Instagram,moderate,active posting,7.0,4
+8/7/2020 16:21,female,20.0,benl,year 3,3.24,no,yes,yes,no,no,3,6.0,TikTok,high,active posting,7.0,3
+8/7/2020 16:21,female,20.0,benl,year 3,3.05,no,yes,yes,no,no,4,7.0,TikTok,high,active posting,6.5,4
+13/07/2020 10:33:47,female,18.0,psychology,year 1,3.68,no,yes,yes,no,yes,4,4.5,Snapchat,moderate,passive browsing,7.0,3
+8/7/2020 15:14,male,23.0,bcs,year 2,3.21,no,yes,no,no,no,3,2.5,X,moderate,messaging,6.0,5
+8/7/2020 15:37,female,18.0,bcs,year 2,3.78,no,no,yes,no,no,4,1.5,Instagram,low,mixed,6.5,5
+8/7/2020 14:57,female,22.0,engineering,year 4,3.7,no,no,no,no,no,3,3.5,TikTok,moderate,active posting,6.5,5
+8/7/2020 19:32,female,24.0,kop,year 4,3.48,no,no,yes,no,no,2,3.5,Instagram,moderate,mixed,6.0,4
+8/7/2020 12:43,female,18.0,kenms,year 2,3.56,no,no,yes,no,no,3,4.0,YouTube,moderate,passive browsing,6.5,2
+8/7/2020 15:48,female,19.0,koe,year 3,3.38,yes,yes,yes,yes,no,5,5.0,TikTok,high,mixed,4.0,1
+8/7/2020 16:34,female,23.0,benl,year 1,3.05,no,no,no,no,no,3,3.5,Facebook,moderate,messaging,6.5,3
+18/07/2020 20:16:21,male,20.0,biomedical science,year 2,3.01,no,no,no,no,no,1,4.5,X,moderate,mixed,6.5,3
+13/07/2020 19:56:49,female,21.0,bcs,year 1,3.64,no,no,yes,no,no,3,3.5,Instagram,moderate,mixed,5.5,4
+8/7/2020 12:33,female,18.0,bcs,year 1,3.99,no,no,yes,no,no,4,2.0,TikTok,moderate,messaging,8.5,5
+8/7/2020 15:47,female,19.0,biomedical science,year 3,3.47,no,no,no,no,no,3,4.0,X,moderate,mixed,7.5,3
+8/7/2020 16:34,female,22.0,benl,year 1,3.04,no,no,no,no,no,3,3.5,Facebook,moderate,passive browsing,6.5,4
+8/7/2020 12:13,male,22.0,mathemathics,year 4,3.06,no,no,no,no,no,3,3.5,YouTube,moderate,passive browsing,6.5,4
+8/7/2020 18:11,male,19.0,mhsc,year 3,3.33,yes,yes,no,yes,no,2,6.5,Snapchat,high,active posting,4.5,5
+8/7/2020 12:31,male,19.0,engineering,year 2,3.61,no,no,no,yes,no,2,6.0,Facebook,high,active posting,5.0,4
+13/07/2020 19:08:32,female,18.0,islamic education,year 1,3.86,no,no,no,no,no,3,3.5,TikTok,moderate,mixed,6.0,4
+13/07/2020 16:15:13,female,18.0,benl,year 1,3.13,no,yes,no,no,no,3,6.5,Facebook,high,messaging,6.5,3
+8/7/2020 15:12,female,19.0,engineering,year 1,3.67,no,no,yes,no,no,4,1.5,Snapchat,low,messaging,6.0,5
+13/07/2020 21:22:56,female,20.0,nursing,year 3,3.5,yes,yes,no,yes,no,4,7.5,Instagram,high,messaging,6.0,4
+8/7/2020 15:57,female,19.0,bcs,year 1,3.85,no,yes,no,yes,yes,2,5.0,Instagram,high,mixed,7.0,3
+8/7/2020 14:56,female,23.0,engineering,year 2,2.74,yes,yes,no,yes,yes,5,6.5,TikTok,high,passive browsing,5.0,4
+8/7/2020 15:37,female,18.0,bcs,year 2,3.83,no,no,yes,no,no,4,2.0,TikTok,moderate,passive browsing,6.0,5
+8/7/2020 12:43,male,23.0,bcs,year 3,3.56,no,no,no,no,no,2,3.5,TikTok,moderate,mixed,8.0,3
+8/7/2020 12:40,female,18.0,bcs,year 1,3.35,no,yes,no,no,no,2,4.0,TikTok,moderate,passive browsing,6.5,1
+8/7/2020 14:05,female,25.0,bcs,year 4,3.61,no,no,no,no,no,1,3.0,YouTube,moderate,mixed,6.0,3
+8/7/2020 13:05,female,19.0,bit,year 2,3.72,no,no,yes,no,no,4,4.0,Snapchat,moderate,passive browsing,6.5,4
+8/7/2020 12:46,female,24.0,accounting,year 3,3.3,no,no,no,no,no,3,5.0,Instagram,high,mixed,7.0,4
+8/7/2020 17:05,female,18.0,cts,year 1,3.91,no,no,no,yes,no,3,6.0,TikTok,high,active posting,5.5,4
+8/7/2020 13:05,female,20.0,bit,year 2,3.66,no,no,yes,no,no,2,4.0,Instagram,moderate,passive browsing,5.5,3
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.23,no,no,yes,no,no,2,2.5,Instagram,moderate,active posting,6.0,3
+8/7/2020 16:21,female,19.0,benl,year 3,2.96,no,yes,yes,no,no,5,7.0,TikTok,high,passive browsing,7.5,4
+8/7/2020 15:57,female,19.0,bcs,year 1,3.67,no,yes,no,yes,yes,3,5.0,Instagram,high,mixed,6.5,3
+13/07/2020 11:54:58,male,24.0,engineering,year 2,2.25,no,no,no,yes,no,4,3.0,TikTok,moderate,messaging,7.0,3
+18/07/2020 20:16:21,male,19.0,biomedical science,year 2,3.06,no,no,no,no,no,1,4.0,X,moderate,mixed,6.5,3
+13/07/2020 11:54:58,male,24.0,engineering,year 2,2.1,no,no,no,yes,no,4,2.5,TikTok,moderate,messaging,6.0,4
+8/7/2020 16:53,female,18.0,bcs,year 1,3.71,no,no,no,no,no,2,6.0,YouTube,high,passive browsing,5.0,5
+8/7/2020 13:13,female,23.0,bcs,year 1,3.61,no,no,no,no,no,2,4.0,Facebook,moderate,passive browsing,7.5,4
+8/7/2020 12:35,female,19.0,human resources,year 2,2.8,no,no,no,no,no,2,2.5,YouTube,moderate,mixed,8.0,3
+8/7/2020 12:39,female,23.0,engineering,year 3,4.0,yes,yes,no,no,no,4,5.0,Facebook,high,active posting,4.5,4
+8/7/2020 12:02,female,18.0,engineering,year 1,3.25,no,yes,no,yes,no,2,4.5,Instagram,moderate,passive browsing,5.0,3
+8/7/2020 16:21,female,20.0,benl,year 3,3.08,no,yes,yes,no,no,3,5.5,TikTok,high,active posting,6.5,4
+8/7/2020 12:02,female,19.0,engineering,year 1,3.11,no,yes,no,yes,no,3,4.0,Instagram,moderate,passive browsing,5.0,3
+8/7/2020 14:31,male,18.0,bcs,year 2,3.8,yes,yes,yes,no,yes,2,4.5,TikTok,moderate,passive browsing,5.5,4
+13/07/2020 19:08:32,female,18.0,islamic education,year 1,3.69,no,no,no,no,no,3,3.5,TikTok,moderate,mixed,7.0,5
+8/7/2020 15:14,female,18.0,engine,year 4,3.74,no,no,no,no,no,1,3.5,Instagram,moderate,messaging,7.0,3
+13/07/2020 11:49:02,male,24.0,bit,year 1,3.35,no,no,yes,no,no,4,2.5,X,moderate,passive browsing,6.5,3
+8/7/2020 12:02,female,18.0,engineering,year 1,3.17,no,yes,no,yes,no,2,4.0,X,moderate,passive browsing,5.5,2
+8/7/2020 12:43,male,23.0,bcs,year 3,3.6,no,no,no,no,no,2,3.5,Instagram,moderate,mixed,8.0,2
+8/7/2020 16:34,female,19.0,it,year 3,3.17,no,no,no,yes,no,3,2.0,YouTube,moderate,passive browsing,7.5,4
+8/7/2020 17:37,female,23.0,engin,year 1,3.63,no,no,no,yes,no,2,5.0,Snapchat,high,mixed,5.5,3
+8/7/2020 17:05,female,18.0,cts,year 1,3.92,no,no,no,yes,no,2,7.0,Instagram,high,active posting,4.5,3
+8/7/2020 19:05,female,18.0,malcom,year 1,3.58,no,yes,no,no,no,2,4.0,Snapchat,moderate,mixed,6.0,4
+8/7/2020 13:13,female,19.0,koe,year 2,2.98,no,no,no,no,no,1,4.0,Instagram,moderate,mixed,8.0,3
+13/07/2020 14:48:05,female,19.0,koe,year 2,3.48,yes,yes,no,no,no,2,3.0,Facebook,moderate,passive browsing,6.0,1
+8/7/2020 18:10,female,19.0,koe,year 3,3.06,no,no,yes,no,no,4,5.5,Snapchat,high,messaging,5.0,5
+9/7/2020 11:57,female,24.0,koe,year 1,3.86,no,no,yes,yes,no,5,4.5,Snapchat,moderate,mixed,6.0,3
+8/7/2020 13:29,female,19.0,banking studies,year 1,3.95,no,no,no,no,no,2,3.0,Snapchat,moderate,mixed,6.0,5
+8/7/2020 12:43,male,23.0,bcs,year 3,3.61,no,no,no,no,no,2,3.0,Instagram,moderate,mixed,7.0,3
+8/7/2020 15:27,female,24.0,ala,year 1,3.06,yes,yes,no,yes,yes,2,5.0,Snapchat,high,messaging,8.5,1
+18/07/2020 20:16:21,male,20.0,biomedical science,year 2,3.04,no,no,no,no,no,1,4.5,X,moderate,mixed,6.5,3
+13/07/2020 10:33:47,female,19.0,psychology,year 1,3.61,no,yes,yes,no,yes,5,4.0,Snapchat,moderate,passive browsing,6.5,2
+8/7/2020 16:08,male,23.0,kirkhs,year 3,3.57,no,no,no,no,no,2,3.5,Instagram,moderate,messaging,7.5,5
+8/7/2020 13:58,female,24.0,bit,year 3,3.71,yes,yes,yes,yes,yes,5,5.5,YouTube,high,active posting,5.5,5
+9/7/2020 18:24,female,18.0,human sciences,year 2,3.05,no,no,no,yes,no,4,5.0,Instagram,high,mixed,7.0,5
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.35,no,no,yes,no,no,3,1.5,Snapchat,low,active posting,6.5,3
+8/7/2020 19:05,female,18.0,malcom,year 1,3.52,no,yes,no,no,no,2,4.0,Snapchat,moderate,mixed,6.0,5
+8/7/2020 15:12,female,18.0,engineering,year 1,3.65,no,no,yes,no,no,3,2.5,Snapchat,moderate,messaging,6.0,5
+13/07/2020 16:15:13,female,18.0,benl,year 1,3.13,no,yes,no,no,no,1,6.0,YouTube,high,messaging,6.0,5
+8/7/2020 16:53,female,18.0,bcs,year 1,3.6,no,no,no,no,no,1,6.5,TikTok,high,passive browsing,4.5,3
+8/7/2020 19:05,female,19.0,malcom,year 1,3.55,no,yes,no,no,no,3,3.0,Snapchat,moderate,mixed,6.0,4
+9/7/2020 11:57,female,24.0,koe,year 1,3.87,no,no,yes,yes,no,5,5.5,Instagram,high,mixed,5.0,3
+8/7/2020 12:43,male,25.0,bcs,year 3,3.51,no,no,no,no,no,2,1.0,Instagram,low,active posting,7.5,2
+13/07/2020 11:54:58,male,24.0,engineering,year 2,2.33,no,no,no,yes,no,3,2.5,TikTok,moderate,messaging,6.0,3
+13/07/2020 11:54:58,male,23.0,engineering,year 2,2.16,no,no,no,yes,no,5,2.5,TikTok,moderate,messaging,6.0,3
+8/7/2020 15:14,female,18.0,engine,year 4,3.84,no,no,no,no,no,1,2.5,Instagram,moderate,messaging,7.5,5
+13/07/2020 10:14:46,male,23.0,radiography,year 1,3.18,no,no,no,no,no,2,1.5,Snapchat,low,active posting,5.5,4
+8/7/2020 14:47,female,18.0,kirkhs,year 1,3.79,no,no,no,no,no,1,4.0,Instagram,moderate,messaging,7.5,5
+13/07/2020 21:23:57,female,23.0,pendidikan islam,year 4,3.69,no,no,no,no,no,1,4.5,TikTok,moderate,messaging,7.0,4
+8/7/2020 14:29,male,19.0,bcs,year 1,3.43,no,no,no,yes,no,3,6.5,Snapchat,high,passive browsing,6.0,5
+13/07/2020 16:15:13,female,18.0,benl,year 1,3.35,no,yes,no,no,no,2,5.5,Facebook,high,messaging,6.5,4
+18/07/2020 20:16:21,male,21.0,biomedical science,year 2,3.1,no,no,no,no,no,1,4.0,X,moderate,active posting,7.0,5
+8/7/2020 13:13,female,25.0,bcs,year 1,3.6,no,no,no,no,no,1,3.0,TikTok,moderate,passive browsing,7.5,5
+8/7/2020 12:39,male,18.0,irkhs,year 1,3.96,no,no,yes,yes,no,2,3.0,TikTok,moderate,messaging,6.0,2
+8/7/2020 19:05,female,18.0,malcom,year 1,3.52,no,yes,no,no,no,1,3.0,YouTube,moderate,mixed,6.0,3
+13/07/2020 21:23:57,female,23.0,pendidikan islam,year 4,3.57,no,no,no,no,no,2,3.0,TikTok,moderate,messaging,7.0,4
+8/7/2020 14:31,male,18.0,bcs,year 2,3.99,yes,yes,yes,no,yes,3,5.5,TikTok,high,passive browsing,4.0,4
+8/7/2020 15:37,female,18.0,bcs,year 2,3.88,no,no,yes,no,no,3,2.5,TikTok,moderate,passive browsing,6.5,5
+13/07/2020 17:30:44,female,24.0,fiqh,year 3,1.59,no,no,no,yes,no,2,6.0,TikTok,high,messaging,6.5,5
+8/7/2020 12:39,male,18.0,irkhs,year 1,3.91,no,no,yes,yes,no,3,3.0,TikTok,moderate,messaging,6.0,3
+8/7/2020 13:05,female,21.0,bit,year 2,3.58,no,no,yes,no,no,4,4.0,YouTube,moderate,passive browsing,5.5,3
+8/7/2020 16:21,female,20.0,benl,year 3,3.2,no,yes,yes,no,no,4,6.0,TikTok,high,active posting,6.5,5
+13/07/2020 19:08:32,female,18.0,islamic education,year 1,3.62,no,no,no,no,no,3,3.0,X,moderate,mixed,6.5,5
+8/7/2020 12:02,female,18.0,engineering,year 1,3.26,no,yes,no,yes,no,2,4.5,Instagram,moderate,passive browsing,5.5,3
+8/7/2020 19:05,female,18.0,malcom,year 1,3.63,no,yes,no,no,no,2,3.0,Snapchat,moderate,mixed,5.5,4
+8/7/2020 12:06,female,22.0,laws,year 3,3.2,yes,yes,no,no,no,2,6.0,Instagram,high,active posting,7.5,3
+8/7/2020 12:43,male,25.0,bcs,year 3,3.56,no,no,no,no,no,2,2.0,Instagram,moderate,passive browsing,8.0,2
+8/7/2020 13:15,female,23.0,engineering,year 1,3.09,no,no,no,no,no,2,4.0,X,moderate,messaging,5.5,3
+13/07/2020 10:10:30,female,19.0,engineering,year 4,3.54,no,no,no,no,no,3,3.5,YouTube,moderate,messaging,8.0,3
+8/7/2020 12:04,male,21.0,islamic education,year 2,3.45,no,no,yes,no,no,4,4.5,Instagram,moderate,active posting,6.5,3
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.41,no,no,yes,no,no,2,1.5,TikTok,low,passive browsing,7.0,3
+8/7/2020 14:29,male,18.0,bcs,year 2,3.18,no,no,no,no,no,3,1.0,Snapchat,low,mixed,6.5,4
+13/07/2020 13:57:11,female,23.0,diploma tesl,year 3,3.67,no,no,no,yes,no,3,3.5,TikTok,moderate,messaging,6.5,4
+13/07/2020 10:12:28,female,20.0,pendidikan islam,year 2,2.99,no,no,no,no,no,2,2.0,Instagram,moderate,passive browsing,6.0,4
+8/7/2020 13:15,female,25.0,engineering,year 1,3.16,no,no,no,no,no,1,4.0,X,moderate,passive browsing,5.5,3
+8/7/2020 12:39,female,24.0,engineering,year 3,3.85,yes,yes,no,no,no,4,4.0,Facebook,moderate,active posting,4.5,4
+8/7/2020 15:18,female,24.0,bcs,year 3,3.53,no,no,no,yes,no,4,4.0,TikTok,moderate,mixed,5.5,3
+8/7/2020 14:41,female,19.0,bit,year 1,3.55,no,yes,yes,yes,no,5,5.5,Instagram,high,mixed,5.0,3
+8/7/2020 14:29,male,20.0,bcs,year 1,3.66,no,no,no,yes,no,3,6.0,Snapchat,high,passive browsing,6.0,4
+8/7/2020 14:29,male,19.0,bcs,year 1,3.43,no,no,no,yes,no,2,5.0,Instagram,high,passive browsing,5.5,5
+8/7/2020 16:34,female,18.0,it,year 3,3.14,no,no,no,yes,no,2,2.0,YouTube,moderate,passive browsing,8.0,4
+8/7/2020 15:27,female,23.0,ala,year 1,2.98,yes,yes,no,yes,yes,4,3.5,Snapchat,moderate,messaging,8.0,1
+8/7/2020 14:58,female,20.0,usuluddin,year 2,3.04,no,yes,no,no,no,2,4.5,Facebook,moderate,mixed,7.0,4
+18/07/2020 20:16:21,male,19.0,biomedical science,year 2,2.96,no,no,no,no,no,1,4.0,X,moderate,mixed,7.5,4
+8/7/2020 12:39,female,24.0,engineering,year 3,4.0,yes,yes,no,no,no,4,3.5,Facebook,moderate,active posting,4.0,3
+8/7/2020 18:10,female,19.0,koe,year 3,3.03,no,no,yes,no,no,3,3.5,Snapchat,moderate,messaging,6.5,5
+8/7/2020 17:46,female,23.0,engine,year 1,3.64,no,no,no,no,no,3,3.5,TikTok,moderate,mixed,7.0,4
+8/7/2020 14:29,male,19.0,bcs,year 1,3.57,no,no,no,yes,no,2,5.5,Snapchat,high,passive browsing,6.5,4
+8/7/2020 14:56,female,25.0,engineering,year 2,2.72,yes,yes,no,yes,yes,4,7.0,TikTok,high,passive browsing,4.0,3
+9/7/2020 6:57,male,18.0,biomedical science,year 1,1.59,no,no,no,no,no,3,2.0,TikTok,moderate,passive browsing,8.0,5
+8/7/2020 14:58,female,21.0,usuluddin,year 2,3.01,no,yes,no,no,no,2,5.0,Facebook,high,messaging,7.0,5
+8/7/2020 15:07,male,20.53,bit,year 1,1.8,no,no,no,no,no,2,3.0,X,moderate,passive browsing,8.5,1
+8/7/2020 13:58,female,24.0,bit,year 3,3.77,yes,yes,yes,yes,yes,5,6.0,YouTube,high,active posting,6.0,4
+8/7/2020 12:40,female,19.0,bcs,year 1,3.39,no,yes,no,no,no,4,3.0,TikTok,moderate,passive browsing,6.5,2
+8/7/2020 12:39,female,24.0,engineering,year 3,4.0,yes,yes,no,no,no,3,4.5,Facebook,moderate,mixed,4.5,3
+13/07/2020 17:30:44,female,24.0,fiqh,year 3,1.57,no,no,no,yes,no,3,4.5,Snapchat,moderate,messaging,5.0,5
+8/7/2020 15:09,male,18.0,bcs,year 1,3.81,no,no,yes,yes,no,3,3.5,Snapchat,moderate,mixed,5.5,4
+8/7/2020 12:04,male,21.0,islamic education,year 2,3.53,no,no,yes,no,no,4,5.0,Instagram,high,active posting,6.5,3
+8/7/2020 14:41,female,18.0,bit,year 1,3.44,no,yes,yes,yes,no,3,5.0,Snapchat,high,active posting,4.5,4
+13/07/2020 10:34:08,female,19.0,fiqh fatwa,year 3,3.45,no,no,no,no,no,2,6.5,Instagram,high,mixed,7.5,4
+13/07/2020 10:11:26,female,25.0,communication,year 2,3.96,yes,yes,yes,yes,no,5,7.5,Instagram,high,mixed,5.0,3
+13/07/2020 11:54:58,male,24.0,engineering,year 2,2.22,no,no,no,yes,no,5,2.0,TikTok,moderate,messaging,6.0,5
+8/7/2020 12:33,female,18.0,bcs,year 1,3.97,no,no,yes,no,no,3,2.0,Facebook,moderate,messaging,7.5,5
+13/07/2020 14:48:05,female,19.0,koe,year 2,3.24,yes,yes,no,no,no,1,1.5,Facebook,low,passive browsing,6.5,1
+8/7/2020 13:29,female,18.0,banking studies,year 1,3.8,no,no,no,no,no,2,3.5,Snapchat,moderate,messaging,7.0,5
+9/7/2020 6:57,male,18.0,biomedical science,year 1,1.52,no,no,no,no,no,2,2.0,TikTok,moderate,active posting,7.0,5
+13/07/2020 11:54:58,male,25.0,engineering,year 2,2.24,no,no,no,yes,no,5,3.0,TikTok,moderate,messaging,7.0,4
+8/7/2020 14:31,male,18.0,bcs,year 2,4.0,yes,yes,yes,no,yes,1,5.5,TikTok,high,passive browsing,5.0,3
+8/7/2020 12:32,female,23.0,pendidikan islam,year 2,3.71,yes,yes,no,yes,no,3,5.0,YouTube,high,mixed,4.5,4
+8/7/2020 18:11,male,18.0,mhsc,year 3,3.44,yes,yes,no,yes,no,3,5.5,Snapchat,high,mixed,4.5,4
+8/7/2020 16:21,female,19.0,benl,year 3,3.14,no,yes,yes,no,no,3,7.5,TikTok,high,mixed,6.0,4
+9/7/2020 11:43,male,24.0,bit,year 3,3.71,no,no,yes,no,no,4,3.5,Instagram,moderate,passive browsing,6.0,4
+8/7/2020 13:58,female,24.0,bit,year 3,3.76,yes,yes,yes,yes,yes,5,7.0,YouTube,high,mixed,4.5,5
+8/7/2020 14:43,female,19.0,engineering,year 1,2.34,no,no,no,no,no,1,4.0,Snapchat,moderate,mixed,7.0,5
+13/07/2020 11:49:02,male,24.0,bit,year 1,3.38,no,no,yes,no,no,4,3.5,Facebook,moderate,passive browsing,6.5,3
+8/7/2020 13:12,female,19.0,engineering,year 1,3.29,no,no,no,yes,no,4,3.5,YouTube,moderate,passive browsing,8.0,2
+8/7/2020 14:43,female,18.0,engineering,year 1,2.36,no,no,no,no,no,1,3.5,Facebook,moderate,mixed,7.5,3
+8/7/2020 12:39,male,18.0,irkhs,year 1,3.69,no,no,yes,yes,no,4,2.5,Instagram,moderate,messaging,6.0,3
+18/07/2020 20:16:21,male,19.0,biomedical science,year 2,3.08,no,no,no,no,no,1,4.0,X,moderate,mixed,7.0,5
+8/7/2020 22:35,female,18.0,bit,year 3,2.91,yes,yes,no,no,no,4,6.5,YouTube,high,active posting,7.5,3
+8/7/2020 13:15,female,23.0,engineering,year 1,3.2,no,no,no,no,no,2,4.0,X,moderate,messaging,6.5,3
+8/7/2020 17:37,female,24.0,engin,year 1,3.85,no,no,no,yes,no,2,4.5,TikTok,moderate,mixed,4.5,3
+13/07/2020 21:22:56,female,19.0,nursing,year 3,3.44,yes,yes,no,yes,no,3,7.5,YouTube,high,active posting,4.5,4
+8/7/2020 15:14,male,24.0,bcs,year 2,3.07,no,yes,no,no,no,3,4.0,Instagram,moderate,active posting,5.5,5
+13/07/2020 21:22:56,female,20.0,nursing,year 3,3.49,yes,yes,no,yes,no,3,8.0,X,high,messaging,6.0,4
+8/7/2020 14:43,female,19.0,engineering,year 1,2.49,no,no,no,no,no,2,3.5,Snapchat,moderate,mixed,6.5,3
+13/07/2020 10:12:18,female,24.0,diploma nursing,year 2,3.97,no,no,no,no,no,1,2.0,Instagram,moderate,mixed,7.0,4
+13/07/2020 19:08:32,female,19.0,islamic education,year 1,3.65,no,no,no,no,no,3,3.0,TikTok,moderate,mixed,6.0,4
+8/7/2020 13:15,female,24.0,engineering,year 1,3.22,no,no,no,no,no,3,3.0,X,moderate,messaging,4.5,4
+8/7/2020 13:13,female,23.0,bcs,year 1,3.61,no,no,no,no,no,1,2.5,TikTok,moderate,passive browsing,8.5,4
+8/7/2020 16:53,female,19.0,bcs,year 1,3.63,no,no,no,no,no,3,7.0,YouTube,high,passive browsing,4.0,5
+13/07/2020 19:08:32,female,18.0,islamic education,year 1,3.96,no,no,no,no,no,3,3.0,TikTok,moderate,mixed,5.5,4
+8/7/2020 14:43,female,18.0,law,year 3,3.03,no,yes,yes,no,no,5,5.0,Snapchat,high,active posting,4.5,3
+8/7/2020 12:39,female,25.0,engineering,year 3,4.0,yes,yes,no,no,no,4,4.0,YouTube,moderate,active posting,5.0,3
+8/7/2020 15:57,female,18.0,bcs,year 1,3.84,no,yes,no,yes,yes,3,6.0,YouTube,high,mixed,6.5,2
+8/7/2020 12:40,female,18.0,bcs,year 1,3.5,no,yes,no,no,no,2,4.5,TikTok,moderate,passive browsing,6.0,1
+8/7/2020 13:13,female,24.0,bcs,year 1,3.66,no,no,no,no,no,1,4.5,TikTok,moderate,passive browsing,8.0,3
+13/07/2020 11:49:02,male,25.0,bit,year 1,3.45,no,no,yes,no,no,3,3.0,Facebook,moderate,passive browsing,6.5,3
+13/07/2020 21:22:56,female,19.0,nursing,year 3,3.48,yes,yes,no,yes,no,2,7.5,Snapchat,high,active posting,5.0,4
+8/7/2020 14:05,female,24.0,bcs,year 4,3.54,no,no,no,no,no,1,3.0,YouTube,moderate,messaging,6.0,2
+8/7/2020 12:46,female,23.0,accounting,year 3,3.12,no,no,no,no,no,2,5.0,Instagram,high,mixed,7.5,4
+8/7/2020 16:53,female,18.0,bcs,year 1,3.69,no,no,no,no,no,2,5.5,YouTube,high,active posting,4.5,4
+13/07/2020 10:12:28,female,20.0,pendidikan islam,year 2,3.0,no,no,no,no,no,2,2.0,Instagram,moderate,passive browsing,6.0,5
+13/07/2020 11:49:02,male,25.0,bit,year 1,3.46,no,no,yes,no,no,3,2.5,Facebook,moderate,passive browsing,6.0,3
+13/07/2020 10:33:47,female,18.0,psychology,year 1,3.66,no,yes,yes,no,yes,4,4.0,Snapchat,moderate,passive browsing,6.5,3
+8/7/2020 12:40,female,19.0,bcs,year 1,3.5,no,yes,no,no,no,2,3.0,TikTok,moderate,passive browsing,5.0,1
+8/7/2020 16:22,female,18.0,bcs,year 1,3.52,no,no,no,no,no,2,2.5,Facebook,moderate,mixed,6.5,5
+8/7/2020 13:05,female,21.0,bit,year 2,3.58,no,no,yes,no,no,2,3.0,Instagram,moderate,passive browsing,6.5,4
+8/7/2020 15:14,male,24.0,bcs,year 2,3.37,no,yes,no,no,no,3,2.5,X,moderate,active posting,5.5,5
+13/07/2020 21:23:57,female,23.0,pendidikan islam,year 4,3.48,no,no,no,no,no,3,4.0,TikTok,moderate,mixed,6.5,4
+8/7/2020 12:39,female,24.0,engineering,year 3,3.93,yes,yes,no,no,no,4,3.5,Facebook,moderate,active posting,4.5,4
+8/7/2020 16:34,female,18.0,it,year 3,3.14,no,no,no,yes,no,3,2.5,Instagram,moderate,passive browsing,8.5,3
+8/7/2020 13:05,female,19.0,bit,year 2,3.83,no,no,yes,no,no,3,4.0,X,moderate,passive browsing,6.0,4
+9/7/2020 11:57,female,23.0,koe,year 1,3.69,no,no,yes,yes,no,5,4.5,TikTok,moderate,passive browsing,5.0,3
+8/7/2020 12:35,female,19.0,human resources,year 2,3.04,no,no,no,no,no,2,2.5,YouTube,moderate,mixed,7.0,3
+8/7/2020 20:36,female,24.0,biomedical science,year 1,3.46,no,no,no,no,no,2,1.0,TikTok,low,mixed,7.5,4
+8/7/2020 13:41,male,18.0,engineering,year 2,3.27,yes,yes,yes,no,no,3,6.5,Instagram,high,messaging,7.0,3
+9/7/2020 18:24,female,18.0,human sciences,year 2,3.04,no,no,no,yes,no,2,5.0,Instagram,high,mixed,7.0,5
+13/07/2020 17:30:44,female,25.0,fiqh,year 3,1.55,no,no,no,yes,no,3,5.0,Snapchat,high,messaging,5.5,4
+8/7/2020 15:37,female,18.0,bcs,year 2,3.93,no,no,yes,no,no,5,2.5,TikTok,moderate,passive browsing,6.5,5
+13/07/2020 10:12:26,female,19.0,engineering,year 1,3.21,no,yes,yes,no,no,4,6.5,Snapchat,high,mixed,6.5,4
+8/7/2020 12:43,male,24.0,bcs,year 3,3.63,no,no,no,no,no,3,3.0,Instagram,moderate,mixed,7.0,2
+8/7/2020 19:05,female,19.0,malcom,year 1,3.55,no,yes,no,no,no,3,3.0,TikTok,moderate,active posting,6.5,4
+13/07/2020 21:22:56,female,18.0,nursing,year 3,3.49,yes,yes,no,yes,no,2,7.5,YouTube,high,messaging,5.5,5
+8/7/2020 12:39,female,24.0,engineering,year 3,3.97,yes,yes,no,no,no,4,3.5,Facebook,moderate,passive browsing,4.5,4
+8/7/2020 13:17,female,24.0,bcs,year 3,3.71,no,yes,yes,yes,no,4,7.5,YouTube,high,active posting,4.0,4
+8/7/2020 15:37,female,19.0,bcs,year 2,3.98,no,no,yes,no,no,5,2.5,Instagram,moderate,passive browsing,7.0,5
+13/07/2020 10:14:46,male,23.0,radiography,year 1,3.2,no,no,no,no,no,3,2.0,Snapchat,moderate,mixed,6.0,5
+13/07/2020 21:23:57,female,23.0,pendidikan islam,year 4,3.31,no,no,no,no,no,2,3.0,TikTok,moderate,messaging,6.5,4
+8/7/2020 15:47,female,19.0,biomedical science,year 3,3.51,no,no,no,no,no,3,4.0,X,moderate,mixed,7.0,4
+8/7/2020 13:13,female,25.0,bcs,year 1,3.67,no,no,no,no,no,1,1.5,TikTok,low,messaging,8.0,3
+8/7/2020 12:43,male,24.0,bcs,year 3,3.59,no,no,no,no,no,1,2.0,Instagram,moderate,mixed,7.0,3
+8/7/2020 16:08,male,22.0,kirkhs,year 3,3.51,no,no,no,no,no,2,2.5,Instagram,moderate,messaging,6.5,5
+8/7/2020 14:47,female,19.0,kirkhs,year 1,3.93,no,no,no,no,no,2,3.5,TikTok,moderate,passive browsing,6.0,4
+8/7/2020 15:47,female,19.0,biomedical science,year 3,3.54,no,no,no,no,no,3,3.0,X,moderate,mixed,6.5,3
+8/7/2020 14:57,female,22.0,engineering,year 4,3.69,no,no,no,no,no,2,4.0,TikTok,moderate,active posting,6.0,5
+8/7/2020 16:21,female,20.0,benl,year 3,3.13,no,yes,yes,no,no,4,6.5,TikTok,high,active posting,6.0,4
+8/7/2020 14:47,female,18.0,kirkhs,year 1,3.76,no,no,no,no,no,1,4.0,Instagram,moderate,passive browsing,6.0,5
+8/7/2020 12:41,male,19.0,engineering,year 1,2.99,no,no,no,no,no,2,1.5,Facebook,low,passive browsing,8.0,3
+13/07/2020 17:30:44,female,24.0,fiqh,year 3,1.48,no,no,no,yes,no,3,4.0,Snapchat,moderate,mixed,5.5,5
+8/7/2020 12:13,male,22.0,mathemathics,year 4,3.15,no,no,no,no,no,3,3.0,YouTube,moderate,active posting,6.5,4
+8/7/2020 14:41,female,19.0,bit,year 1,3.55,no,yes,yes,yes,no,5,5.5,Instagram,high,mixed,4.0,4
+13/07/2020 10:34:08,female,20.0,fiqh fatwa,year 3,3.4,no,no,no,no,no,1,3.5,Instagram,moderate,mixed,6.5,4
+13/07/2020 14:48:05,female,18.0,koe,year 2,3.43,yes,yes,no,no,no,3,2.0,Instagram,moderate,passive browsing,6.5,1
+9/7/2020 11:43,male,25.0,bit,year 3,3.89,no,no,yes,no,no,4,3.0,X,moderate,messaging,5.5,5
+8/7/2020 12:52,female,24.0,enm,year 4,3.21,yes,yes,yes,yes,no,5,8.0,Instagram,high,mixed,5.5,2
+9/7/2020 11:57,female,25.0,koe,year 1,3.89,no,no,yes,yes,no,4,5.0,TikTok,high,mixed,5.0,3
+8/7/2020 12:35,female,19.0,human resources,year 2,2.85,no,no,no,no,no,2,3.0,YouTube,moderate,mixed,8.0,3
+9/7/2020 6:57,male,18.0,biomedical science,year 1,1.68,no,no,no,no,no,3,2.5,TikTok,moderate,passive browsing,8.0,4
+8/7/2020 16:21,female,20.0,benl,year 3,3.2,no,yes,yes,no,no,4,5.0,TikTok,high,active posting,7.0,3
+8/7/2020 12:46,female,25.0,accounting,year 3,3.21,no,no,no,no,no,2,4.5,X,moderate,passive browsing,7.0,5
+8/7/2020 12:32,female,23.0,pendidikan islam,year 2,3.56,yes,yes,no,yes,no,3,5.0,YouTube,high,passive browsing,4.5,5
+8/7/2020 15:09,male,18.0,bcs,year 1,3.92,no,no,yes,yes,no,4,4.0,Snapchat,moderate,mixed,5.5,3
+8/7/2020 12:40,female,18.0,bcs,year 1,3.41,no,yes,no,no,no,2,6.0,Facebook,high,passive browsing,6.0,1
+8/7/2020 14:56,female,25.0,engineering,year 2,2.65,yes,yes,no,yes,yes,4,5.0,TikTok,high,mixed,4.0,2
+8/7/2020 14:57,female,22.0,engineering,year 4,3.74,no,no,no,no,no,2,5.5,YouTube,high,active posting,7.0,5
+8/7/2020 12:35,female,19.0,human resources,year 2,2.73,no,no,no,no,no,1,3.0,Instagram,moderate,mixed,8.0,3
+8/7/2020 15:18,female,24.0,bcs,year 3,3.54,no,no,no,yes,no,4,4.0,TikTok,moderate,mixed,5.0,3
+8/7/2020 13:35,female,20.0,engineering,year 1,3.59,no,no,no,no,no,2,2.0,TikTok,moderate,messaging,6.0,5
+8/7/2020 17:50,female,22.0,econs,year 1,3.71,no,yes,yes,no,no,3,4.5,YouTube,moderate,active posting,5.0,4
+8/7/2020 12:13,male,23.0,mathemathics,year 4,3.06,no,no,no,no,no,2,3.0,YouTube,moderate,passive browsing,5.5,4
+8/7/2020 13:58,female,23.0,bit,year 3,3.65,yes,yes,yes,yes,yes,5,6.0,YouTube,high,active posting,5.0,5
+8/7/2020 14:43,female,18.0,law,year 3,3.17,no,yes,yes,no,no,3,4.0,Snapchat,moderate,active posting,4.5,4
+8/7/2020 14:45,female,19.0,bit,year 1,2.55,no,yes,yes,yes,no,3,6.0,X,high,messaging,4.5,2
+13/07/2020 10:12:26,female,19.0,engineering,year 1,3.09,no,yes,yes,no,no,5,7.0,TikTok,high,mixed,7.0,4
+8/7/2020 12:33,female,18.0,bcs,year 1,3.98,no,no,yes,no,no,3,1.5,TikTok,low,messaging,8.0,4
+8/7/2020 17:46,female,24.0,engine,year 1,3.72,no,no,no,no,no,3,3.5,TikTok,moderate,mixed,6.0,4
+13/07/2020 10:33:47,female,18.0,psychology,year 1,3.53,no,yes,yes,no,yes,5,5.5,Snapchat,high,passive browsing,7.0,2
+8/7/2020 12:46,female,24.0,accounting,year 3,3.09,no,no,no,no,no,2,3.5,Instagram,moderate,passive browsing,7.5,5
+8/7/2020 20:36,female,24.0,biomedical science,year 1,3.32,no,no,no,no,no,2,1.0,TikTok,low,mixed,7.0,3
+13/07/2020 11:49:02,male,24.0,bit,year 1,3.35,no,no,yes,no,no,4,2.5,Instagram,moderate,passive browsing,6.5,3
+8/7/2020 15:08,male,22.0,taasl,year 2,3.7,no,no,no,yes,no,4,4.5,Facebook,moderate,mixed,6.5,4
+8/7/2020 12:06,female,22.0,laws,year 3,3.27,yes,yes,no,no,no,4,6.0,Instagram,high,active posting,7.0,4
+8/7/2020 14:43,female,18.0,engineering,year 1,2.38,no,no,no,no,no,1,4.5,Snapchat,moderate,mixed,6.0,5
+8/7/2020 19:32,female,24.0,kop,year 4,3.32,no,no,yes,no,no,2,3.5,Instagram,moderate,mixed,5.0,3
+8/7/2020 14:27,female,23.0,business administration,year 2,3.35,no,no,no,no,no,1,5.0,Snapchat,high,messaging,8.5,3
+8/7/2020 13:05,female,20.0,bit,year 2,3.62,no,no,yes,no,no,4,3.5,Instagram,moderate,passive browsing,6.0,4
+8/7/2020 16:34,female,19.0,it,year 3,3.19,no,no,no,yes,no,4,3.5,Snapchat,moderate,passive browsing,8.0,4
+8/7/2020 15:48,female,20.0,koe,year 3,3.46,yes,yes,yes,yes,no,4,4.5,Snapchat,moderate,passive browsing,4.0,2
+8/7/2020 14:47,female,18.0,kirkhs,year 1,3.95,no,no,no,no,no,1,4.5,TikTok,moderate,passive browsing,7.0,5
+13/07/2020 13:57:11,female,22.0,diploma tesl,year 3,3.46,no,no,no,yes,no,2,4.0,TikTok,moderate,messaging,6.0,4
+9/7/2020 6:57,male,18.0,biomedical science,year 1,1.38,no,no,no,no,no,2,2.5,TikTok,moderate,passive browsing,7.5,5
+13/07/2020 11:54:58,male,24.0,engineering,year 2,2.24,no,no,no,yes,no,5,2.5,Instagram,moderate,messaging,6.5,4
+8/7/2020 13:05,female,20.0,bit,year 2,3.86,no,no,yes,no,no,3,3.5,Instagram,moderate,passive browsing,5.5,4
+8/7/2020 14:47,female,18.0,kirkhs,year 1,3.94,no,no,no,no,no,1,4.0,TikTok,moderate,passive browsing,7.5,5
+8/7/2020 18:10,female,18.0,koe,year 3,3.09,no,no,yes,no,no,3,4.5,Snapchat,moderate,messaging,5.0,5
+8/7/2020 15:08,male,23.0,taasl,year 2,3.59,no,no,no,yes,no,4,5.0,TikTok,high,mixed,7.0,5
+8/7/2020 12:40,female,18.0,bcs,year 1,3.47,no,yes,no,no,no,3,4.0,Instagram,moderate,passive browsing,6.5,1
+13/07/2020 14:38:12,male,19.0,koe,year 2,3.27,no,no,yes,no,no,2,2.0,Snapchat,moderate,passive browsing,6.5,3
+8/7/2020 16:21,female,20.0,benl,year 3,3.14,no,yes,yes,no,no,3,6.0,TikTok,high,mixed,6.5,5
+8/7/2020 13:07,female,19.0,marine science,year 2,3.69,yes,yes,yes,yes,no,5,4.0,YouTube,moderate,mixed,4.0,4
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.43,no,no,yes,no,no,3,2.0,Snapchat,moderate,active posting,7.0,3
+8/7/2020 21:21,female,18.0,laws,year 3,3.82,no,no,no,yes,no,3,3.5,Instagram,moderate,active posting,7.0,3
+8/7/2020 16:34,female,18.0,it,year 3,3.22,no,no,no,yes,no,2,3.5,YouTube,moderate,passive browsing,7.5,5
+8/7/2020 14:47,female,18.0,kirkhs,year 1,3.8,no,no,no,no,no,1,3.5,TikTok,moderate,passive browsing,7.0,5
+8/7/2020 12:02,female,19.0,engineering,year 1,3.18,no,yes,no,yes,no,1,4.0,TikTok,moderate,passive browsing,5.5,3
+8/7/2020 12:05,male,19.0,bit,year 1,3.22,no,yes,yes,yes,no,5,4.5,YouTube,moderate,passive browsing,6.5,1
+9/7/2020 13:15,female,24.0,engineering,year 1,3.32,no,yes,no,no,no,4,2.0,Instagram,moderate,mixed,8.0,4
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.32,no,no,yes,no,no,2,2.0,Snapchat,moderate,mixed,6.5,3
+8/7/2020 16:53,female,20.0,bcs,year 1,3.6,no,no,no,no,no,3,5.5,YouTube,high,messaging,4.0,4
+8/7/2020 17:05,female,18.0,cts,year 1,3.92,no,no,no,yes,no,3,6.5,TikTok,high,messaging,5.0,4
+8/7/2020 13:17,female,22.0,bcs,year 3,3.66,no,yes,yes,yes,no,4,8.0,Instagram,high,mixed,5.0,3
+8/7/2020 15:58,male,21.0,bcs,year 1,3.54,no,no,no,no,no,2,2.0,X,moderate,active posting,6.0,5
+8/7/2020 14:29,male,19.0,bcs,year 1,3.53,no,no,no,yes,no,2,5.0,Snapchat,high,passive browsing,7.0,4
+8/7/2020 14:45,female,19.0,bit,year 1,2.55,no,yes,yes,yes,no,4,5.5,Facebook,high,active posting,5.5,2
+8/7/2020 12:31,male,19.0,engineering,year 2,3.55,no,no,no,yes,no,2,5.0,Facebook,high,passive browsing,6.0,4
+8/7/2020 16:21,female,21.0,benl,year 3,3.11,no,yes,yes,no,no,3,6.5,TikTok,high,active posting,6.5,4
+8/7/2020 15:07,male,20.53,bit,year 1,1.88,no,no,no,no,no,2,2.5,X,moderate,active posting,8.0,1
+8/7/2020 15:08,male,23.0,taasl,year 2,3.56,no,no,no,yes,no,3,4.5,TikTok,moderate,mixed,6.5,5
+8/7/2020 14:29,male,18.0,bcs,year 2,3.03,no,no,no,no,no,4,2.5,Snapchat,moderate,messaging,6.5,5
+8/7/2020 15:08,male,23.0,taasl,year 2,3.61,no,no,no,yes,no,3,4.5,TikTok,moderate,mixed,7.0,4
+8/7/2020 16:34,female,18.0,it,year 3,3.08,no,no,no,yes,no,4,3.5,YouTube,moderate,mixed,8.5,4
+8/7/2020 15:12,female,19.0,engineering,year 1,3.59,no,no,yes,no,no,3,1.5,Snapchat,low,messaging,5.5,5
+8/7/2020 13:12,female,18.0,engineering,year 1,3.26,no,no,no,yes,no,4,4.5,YouTube,moderate,messaging,6.5,2
+13/07/2020 10:10:30,female,18.0,engineering,year 4,3.63,no,no,no,no,no,3,4.0,YouTube,moderate,messaging,8.0,3
+13/07/2020 10:14:46,male,23.0,radiography,year 1,3.17,no,no,no,no,no,3,1.5,Snapchat,low,mixed,5.0,5
+9/7/2020 11:43,male,23.0,bit,year 3,3.87,no,no,yes,no,no,4,4.0,Snapchat,moderate,passive browsing,6.5,5
+18/07/2020 20:16:21,male,20.0,biomedical science,year 2,3.09,no,no,no,no,no,1,3.5,X,moderate,mixed,6.5,3
+8/7/2020 14:43,female,18.0,engineering,year 1,2.39,no,no,no,no,no,1,3.0,Snapchat,moderate,mixed,6.5,4
+13/07/2020 21:22:56,female,18.0,nursing,year 3,3.54,yes,yes,no,yes,no,3,7.0,TikTok,high,messaging,5.5,5
+8/7/2020 13:05,female,20.0,bit,year 2,3.71,no,no,yes,no,no,2,3.0,Snapchat,moderate,mixed,5.5,3
+8/7/2020 13:07,female,18.0,marine science,year 2,3.67,yes,yes,yes,yes,no,3,4.0,Instagram,moderate,mixed,4.0,4
+8/7/2020 16:08,male,24.0,kirkhs,year 3,3.49,no,no,no,no,no,1,3.0,Instagram,moderate,messaging,7.0,5
+8/7/2020 12:52,female,24.0,enm,year 4,3.06,yes,yes,yes,yes,no,5,7.0,Instagram,high,mixed,5.5,3
+8/7/2020 15:12,female,20.0,engineering,year 1,3.65,no,no,yes,no,no,3,2.0,Snapchat,moderate,messaging,5.5,5
+8/7/2020 15:14,male,24.0,bcs,year 2,3.38,no,yes,no,no,no,2,2.5,Snapchat,moderate,active posting,6.0,5
+8/7/2020 12:41,male,18.0,engineering,year 1,3.17,no,no,no,no,no,2,2.0,Facebook,moderate,active posting,9.0,4
+8/7/2020 12:43,female,18.0,kenms,year 2,3.67,no,no,yes,no,no,4,5.0,X,high,passive browsing,7.0,2
+8/7/2020 14:27,female,24.0,business administration,year 2,3.4,no,no,no,no,no,1,3.5,YouTube,moderate,messaging,9.0,4
+8/7/2020 12:02,female,18.0,engineering,year 1,3.19,no,yes,no,yes,no,1,4.0,Instagram,moderate,passive browsing,4.5,3
+8/7/2020 15:48,female,21.0,koe,year 3,3.46,yes,yes,yes,yes,no,5,4.0,TikTok,moderate,mixed,4.0,1
+8/7/2020 12:05,male,20.0,bit,year 1,3.31,no,yes,yes,yes,no,5,6.5,Instagram,high,mixed,6.0,2
+8/7/2020 12:43,male,24.0,bcs,year 3,3.56,no,no,no,no,no,3,3.0,Instagram,moderate,mixed,7.0,2
+13/07/2020 10:34:08,female,19.0,fiqh fatwa,year 3,3.41,no,no,no,no,no,2,5.0,TikTok,high,mixed,6.5,3
+8/7/2020 16:08,male,23.0,kirkhs,year 3,3.64,no,no,no,no,no,2,3.5,Instagram,moderate,messaging,7.5,4
+9/7/2020 11:43,male,24.0,bit,year 3,3.84,no,no,yes,no,no,3,3.0,X,moderate,passive browsing,6.5,4
+8/7/2020 12:39,female,25.0,engineering,year 3,3.94,yes,yes,no,no,no,3,4.5,Facebook,moderate,active posting,4.5,5
+9/7/2020 6:57,male,19.0,biomedical science,year 1,1.62,no,no,no,no,no,1,2.5,TikTok,moderate,passive browsing,6.5,5
+13/07/2020 19:08:32,female,18.0,islamic education,year 1,3.8,no,no,no,no,no,3,3.0,TikTok,moderate,mixed,6.5,5
+8/7/2020 12:43,male,24.0,bcs,year 3,3.47,no,no,no,no,no,2,3.5,Instagram,moderate,active posting,7.5,2
+8/7/2020 21:21,female,18.0,laws,year 3,3.42,no,no,no,yes,no,3,3.5,Instagram,moderate,active posting,7.5,3
+9/7/2020 11:57,female,24.0,koe,year 1,3.82,no,no,yes,yes,no,4,5.0,Instagram,high,mixed,4.5,2
+8/7/2020 13:15,female,25.0,engineering,year 1,3.08,no,no,no,no,no,2,3.0,X,moderate,mixed,5.0,2
+8/7/2020 13:41,male,18.0,engineering,year 2,3.21,yes,yes,yes,no,no,3,5.5,Instagram,high,active posting,6.0,2
+8/7/2020 12:33,female,18.0,bcs,year 1,3.92,no,no,yes,no,no,3,2.0,TikTok,moderate,messaging,8.5,5
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.31,no,no,yes,no,no,2,1.5,Snapchat,low,active posting,5.5,4
+8/7/2020 14:43,female,18.0,engineering,year 1,2.52,no,no,no,no,no,1,3.0,Snapchat,moderate,mixed,6.5,5
+13/07/2020 11:54:58,male,24.0,engineering,year 2,2.26,no,no,no,yes,no,5,4.0,TikTok,moderate,messaging,6.5,4
+8/7/2020 12:33,female,18.0,bcs,year 1,3.95,no,no,yes,no,no,3,3.0,TikTok,moderate,messaging,8.5,5
+8/7/2020 16:21,female,19.0,benl,year 3,3.15,no,yes,yes,no,no,4,7.0,TikTok,high,mixed,7.0,4
+8/7/2020 16:34,female,23.0,benl,year 1,3.07,no,no,no,no,no,3,3.5,Facebook,moderate,mixed,7.5,2
+8/7/2020 15:18,female,25.0,bcs,year 3,3.67,no,no,no,yes,no,3,4.0,TikTok,moderate,mixed,5.0,4
+8/7/2020 13:41,male,18.0,engineering,year 2,3.24,yes,yes,yes,no,no,4,5.5,Instagram,high,messaging,5.0,2
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.4,no,no,yes,no,no,2,1.5,Snapchat,low,active posting,6.5,2
+18/07/2020 20:16:21,male,19.0,biomedical science,year 2,2.93,no,no,no,no,no,1,4.0,X,moderate,mixed,7.5,4
+8/7/2020 14:57,female,24.0,bit,year 3,2.94,no,no,yes,no,no,4,3.5,Snapchat,moderate,active posting,7.0,3
+13/07/2020 21:23:57,female,23.0,pendidikan islam,year 4,3.62,no,no,no,no,no,2,3.5,TikTok,moderate,messaging,7.5,4
+8/7/2020 17:37,female,24.0,engin,year 1,3.71,no,no,no,yes,no,2,5.5,TikTok,high,mixed,5.5,3
+8/7/2020 13:35,female,19.0,engineering,year 1,3.53,no,no,no,no,no,2,1.0,TikTok,low,messaging,6.5,5
+8/7/2020 17:05,female,18.0,cts,year 1,3.84,no,no,no,yes,no,3,5.5,Instagram,high,mixed,5.0,3
+8/7/2020 12:46,female,24.0,accounting,year 3,3.24,no,no,no,no,no,2,4.0,Instagram,moderate,passive browsing,7.0,5
+8/7/2020 22:35,female,19.0,bit,year 3,2.9,yes,yes,no,no,no,4,7.0,YouTube,high,mixed,8.0,3
+8/7/2020 14:29,male,20.0,bcs,year 1,3.66,no,no,no,yes,no,4,6.0,Snapchat,high,passive browsing,5.5,4
+13/07/2020 10:12:28,female,18.0,pendidikan islam,year 2,2.96,no,no,no,no,no,3,1.0,Instagram,low,passive browsing,7.0,5
+9/7/2020 13:15,female,23.0,engineering,year 1,3.43,no,yes,no,no,no,3,2.5,Instagram,moderate,mixed,8.5,4
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.32,no,no,yes,no,no,2,0.5,TikTok,low,active posting,7.0,4
+8/7/2020 13:58,female,24.0,bit,year 3,3.85,yes,yes,yes,yes,yes,5,6.5,YouTube,high,active posting,5.0,5
+8/7/2020 12:40,female,18.0,bcs,year 1,3.37,no,yes,no,no,no,4,3.0,TikTok,moderate,passive browsing,6.5,2
+8/7/2020 15:09,male,18.0,bcs,year 1,3.82,no,no,yes,yes,no,4,3.5,Snapchat,moderate,mixed,5.0,4
+8/7/2020 14:41,female,20.0,bit,year 1,3.47,no,yes,yes,yes,no,4,6.0,Instagram,high,mixed,4.0,4
+8/7/2020 12:31,male,18.0,engineering,year 2,3.5,no,no,no,yes,no,2,6.0,Facebook,high,passive browsing,5.5,5
+13/07/2020 10:12:18,female,23.0,diploma nursing,year 2,3.87,no,no,no,no,no,1,0.5,X,low,messaging,7.0,5
+8/7/2020 19:05,female,18.0,malcom,year 1,3.5,no,yes,no,no,no,1,2.5,Snapchat,moderate,mixed,5.5,4
+8/7/2020 15:12,female,19.0,engineering,year 1,3.64,no,no,yes,no,no,3,2.5,Snapchat,moderate,passive browsing,5.5,5
+8/7/2020 13:17,female,23.0,bcs,year 3,3.65,no,yes,yes,yes,no,4,7.0,Instagram,high,mixed,4.5,4
+8/7/2020 17:50,female,22.0,econs,year 1,3.57,no,yes,yes,no,no,4,3.5,YouTube,moderate,passive browsing,5.5,4
+8/7/2020 12:39,male,18.0,irkhs,year 1,3.83,no,no,yes,yes,no,3,3.0,TikTok,moderate,messaging,6.5,4
+8/7/2020 15:58,male,22.0,bcs,year 1,3.64,no,no,no,no,no,3,2.5,X,moderate,mixed,7.0,4
+8/7/2020 14:05,female,23.0,bcs,year 4,3.58,no,no,no,no,no,1,4.5,YouTube,moderate,messaging,6.5,1
+8/7/2020 12:13,male,23.0,mathemathics,year 4,3.08,no,no,no,no,no,2,3.0,YouTube,moderate,passive browsing,7.5,4
+8/7/2020 14:29,male,19.0,bcs,year 1,3.51,no,no,no,yes,no,3,5.5,Snapchat,high,passive browsing,6.0,3
+8/7/2020 17:46,female,24.0,engine,year 1,3.64,no,no,no,no,no,1,4.5,TikTok,moderate,mixed,7.0,3
+8/7/2020 12:52,female,23.0,enm,year 4,3.3,yes,yes,yes,yes,no,5,6.0,Instagram,high,mixed,4.5,2
+13/07/2020 19:08:32,female,18.0,islamic education,year 1,3.66,no,no,no,no,no,2,3.0,TikTok,moderate,mixed,6.5,4
+8/7/2020 15:14,male,23.0,bcs,year 2,3.36,no,yes,no,no,no,2,3.0,X,moderate,active posting,6.0,5
+8/7/2020 12:39,female,21.0,psychology,year 1,3.57,no,no,no,no,no,2,4.5,Instagram,moderate,mixed,7.5,3
+13/07/2020 10:14:46,male,23.0,radiography,year 1,3.21,no,no,no,no,no,2,1.0,Snapchat,low,messaging,5.5,5
+8/7/2020 13:29,female,18.0,banking studies,year 1,3.93,no,no,no,no,no,2,3.5,Snapchat,moderate,messaging,6.5,5
+8/7/2020 17:05,female,19.0,cts,year 1,3.91,no,no,no,yes,no,2,4.5,TikTok,moderate,active posting,5.5,4
+13/07/2020 11:49:02,male,24.0,bit,year 1,3.48,no,no,yes,no,no,4,2.5,Facebook,moderate,passive browsing,7.0,3
+13/07/2020 10:33:47,female,18.0,psychology,year 1,3.71,no,yes,yes,no,yes,5,5.0,Snapchat,high,messaging,7.5,2
+8/7/2020 16:22,female,18.0,bcs,year 1,3.49,no,no,no,no,no,3,2.5,YouTube,moderate,mixed,7.0,3
+8/7/2020 13:35,female,19.0,engineering,year 1,3.55,no,no,no,no,no,2,2.0,TikTok,moderate,messaging,7.0,4
+8/7/2020 15:14,male,24.0,bcs,year 2,3.28,no,yes,no,no,no,2,3.5,Instagram,moderate,active posting,6.0,5
+9/7/2020 13:15,female,24.0,engineering,year 1,3.5,no,yes,no,no,no,2,2.0,Instagram,moderate,mixed,8.5,4
+8/7/2020 14:29,male,19.0,bcs,year 1,3.43,no,no,no,yes,no,4,5.5,Facebook,high,active posting,6.5,3
+13/07/2020 21:21:42,male,18.0,engineering,year 2,3.09,no,yes,yes,no,no,4,4.5,Snapchat,moderate,mixed,6.0,5
+13/07/2020 21:22:56,female,19.0,nursing,year 3,3.52,yes,yes,no,yes,no,3,7.5,YouTube,high,messaging,5.5,5
+8/7/2020 12:02,female,18.0,engineering,year 1,3.18,no,yes,no,yes,no,2,4.5,Instagram,moderate,passive browsing,4.5,4
+8/7/2020 13:12,female,18.0,engineering,year 1,3.31,no,no,no,yes,no,3,3.5,YouTube,moderate,messaging,6.5,2
+8/7/2020 15:57,female,19.0,bcs,year 1,3.82,no,yes,no,yes,yes,4,4.5,Instagram,moderate,messaging,7.0,3
+8/7/2020 12:31,male,20.0,engineering,year 2,3.56,no,no,no,yes,no,1,7.0,Facebook,high,passive browsing,5.0,5
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.47,no,no,yes,no,no,2,2.0,Snapchat,moderate,active posting,5.5,4
+13/07/2020 10:11:26,female,24.0,communication,year 2,3.8,yes,yes,yes,yes,no,5,6.5,TikTok,high,active posting,4.5,3
+8/7/2020 19:05,female,18.0,malcom,year 1,3.47,no,yes,no,no,no,2,3.5,Snapchat,moderate,mixed,6.5,4
+13/07/2020 17:30:44,female,24.0,fiqh,year 3,1.52,no,no,no,yes,no,3,5.5,Snapchat,high,messaging,6.0,5
+8/7/2020 12:13,male,22.0,mathemathics,year 4,2.95,no,no,no,no,no,2,4.0,Snapchat,moderate,passive browsing,6.5,3
+8/7/2020 12:05,male,19.0,bit,year 1,3.35,no,yes,yes,yes,no,5,6.0,Instagram,high,mixed,6.5,2
+8/7/2020 15:47,female,19.0,biomedical science,year 3,3.59,no,no,no,no,no,4,2.5,X,moderate,messaging,6.0,3
+8/7/2020 13:13,female,24.0,bcs,year 1,3.65,no,no,no,no,no,1,2.5,TikTok,moderate,passive browsing,8.5,4
+18/07/2020 20:16:21,male,20.0,biomedical science,year 2,3.04,no,no,no,no,no,1,4.0,X,moderate,mixed,6.5,5
+8/7/2020 15:47,female,19.0,biomedical science,year 3,3.36,no,no,no,no,no,3,3.0,X,moderate,mixed,7.5,2
+8/7/2020 14:43,female,19.0,law,year 3,3.1,no,yes,yes,no,no,5,6.0,YouTube,high,active posting,5.0,3
+9/7/2020 6:57,male,18.0,biomedical science,year 1,1.59,no,no,no,no,no,2,2.0,Instagram,moderate,passive browsing,7.0,5
+9/7/2020 6:57,male,18.0,biomedical science,year 1,1.59,no,no,no,no,no,2,2.0,TikTok,moderate,passive browsing,7.0,5
+13/07/2020 10:12:26,female,18.0,engineering,year 1,3.26,no,yes,yes,no,no,4,7.0,Snapchat,high,mixed,6.5,3
+8/7/2020 12:46,female,25.0,accounting,year 3,3.19,no,no,no,no,no,2,3.5,Instagram,moderate,passive browsing,7.0,5
+13/07/2020 10:14:46,male,24.0,radiography,year 1,3.06,no,no,no,no,no,2,1.5,Snapchat,low,active posting,6.0,5
+9/7/2020 18:24,female,18.0,human sciences,year 2,3.06,no,no,no,yes,no,3,5.0,TikTok,high,mixed,7.0,4
+8/7/2020 22:35,female,20.0,bit,year 3,3.04,yes,yes,no,no,no,4,6.0,YouTube,high,active posting,6.5,4
+8/7/2020 12:02,female,18.0,engineering,year 1,3.27,no,yes,no,yes,no,2,4.0,YouTube,moderate,passive browsing,6.0,4
+8/7/2020 15:27,female,23.0,ala,year 1,3.11,yes,yes,no,yes,yes,2,3.5,Snapchat,moderate,messaging,8.0,1
+8/7/2020 15:08,male,22.0,taasl,year 2,3.55,no,no,no,yes,no,4,3.0,Instagram,moderate,active posting,7.5,3
+9/7/2020 13:15,female,23.0,engineering,year 1,3.32,no,yes,no,no,no,4,2.0,Instagram,moderate,mixed,8.0,3
+8/7/2020 12:06,female,21.0,laws,year 3,3.19,yes,yes,no,no,no,3,6.5,Instagram,high,active posting,7.0,5
+8/7/2020 16:53,female,20.0,bcs,year 1,3.62,no,no,no,no,no,2,6.0,YouTube,high,passive browsing,4.5,3
+8/7/2020 17:46,female,24.0,engine,year 1,3.68,no,no,no,no,no,1,4.0,TikTok,moderate,active posting,6.0,4
+8/7/2020 14:29,male,18.0,bcs,year 2,3.16,no,no,no,no,no,3,2.5,YouTube,moderate,active posting,8.0,4
+8/7/2020 14:31,male,18.0,bcs,year 2,3.96,yes,yes,yes,no,yes,3,5.0,TikTok,high,passive browsing,5.5,4
+13/07/2020 14:38:12,male,18.0,koe,year 2,3.32,no,no,yes,no,no,1,2.5,Snapchat,moderate,active posting,6.5,2
+13/07/2020 17:30:44,female,24.0,fiqh,year 3,1.54,no,no,no,yes,no,2,5.5,Snapchat,high,messaging,5.0,5
+8/7/2020 21:21,female,18.0,laws,year 3,3.53,no,no,no,yes,no,3,4.0,Snapchat,moderate,active posting,7.5,4
+8/7/2020 14:47,female,18.0,kirkhs,year 1,4.0,no,no,no,no,no,1,3.5,TikTok,moderate,passive browsing,7.0,5
+8/7/2020 13:29,female,19.0,banking studies,year 1,3.76,no,no,no,no,no,1,4.5,TikTok,moderate,messaging,7.0,5
+8/7/2020 14:31,male,18.0,bcs,year 2,3.98,yes,yes,yes,no,yes,2,6.5,TikTok,high,passive browsing,5.0,3
+8/7/2020 15:48,female,20.0,koe,year 3,3.6,yes,yes,yes,yes,no,5,5.5,YouTube,high,mixed,4.5,1
+8/7/2020 12:05,male,19.0,bit,year 1,3.36,no,yes,yes,yes,no,5,5.5,YouTube,high,passive browsing,7.0,2
+8/7/2020 15:18,female,24.0,bcs,year 3,3.57,no,no,no,yes,no,3,4.0,TikTok,moderate,mixed,6.0,3
+8/7/2020 12:39,female,24.0,engineering,year 3,3.95,yes,yes,no,no,no,5,4.5,Facebook,moderate,active posting,4.0,5
+8/7/2020 17:46,female,24.0,engine,year 1,3.63,no,no,no,no,no,2,4.0,TikTok,moderate,mixed,7.5,4
+8/7/2020 15:48,female,21.0,koe,year 3,3.55,yes,yes,yes,yes,no,5,4.0,TikTok,moderate,active posting,5.0,1
+8/7/2020 12:13,male,23.0,mathemathics,year 4,2.9,no,no,no,no,no,2,3.0,YouTube,moderate,passive browsing,8.0,5
+13/07/2020 16:15:13,female,19.0,benl,year 1,3.4,no,yes,no,no,no,2,6.0,X,high,messaging,5.5,5
+13/07/2020 16:15:13,female,19.0,benl,year 1,3.17,no,yes,no,no,no,2,6.0,Facebook,high,messaging,6.0,3
+8/7/2020 16:08,male,23.0,kirkhs,year 3,3.52,no,no,no,no,no,3,2.5,Instagram,moderate,messaging,6.0,5
+8/7/2020 12:46,female,25.0,accounting,year 3,3.12,no,no,no,no,no,3,4.5,Instagram,moderate,passive browsing,7.5,5
+8/7/2020 15:12,female,18.0,engineering,year 1,3.71,no,no,yes,no,no,2,1.0,Snapchat,low,active posting,5.5,5
+8/7/2020 13:13,female,25.0,bcs,year 1,3.52,no,no,no,no,no,2,3.0,TikTok,moderate,passive browsing,9.0,3
+13/07/2020 10:07:32,female,19.0,biotechnology,year 3,0.75,no,no,no,no,no,2,3.5,Snapchat,moderate,mixed,6.0,4
+18/07/2020 20:16:21,male,21.0,biomedical science,year 2,3.18,no,no,no,no,no,1,4.5,TikTok,moderate,passive browsing,6.0,5
+13/07/2020 10:14:46,male,24.0,radiography,year 1,3.04,no,no,no,no,no,2,1.5,Snapchat,low,active posting,5.5,5
+8/7/2020 12:41,male,20.0,engineering,year 1,3.12,no,no,no,no,no,3,3.5,Facebook,moderate,mixed,7.0,3
+8/7/2020 17:50,female,23.0,econs,year 1,3.72,no,yes,yes,no,no,4,4.5,YouTube,moderate,passive browsing,6.0,4
+9/7/2020 11:43,male,24.0,bit,year 3,3.88,no,no,yes,no,no,4,4.5,X,moderate,passive browsing,5.0,4
+8/7/2020 15:27,female,22.0,ala,year 1,2.98,yes,yes,no,yes,yes,4,4.5,Snapchat,moderate,messaging,8.0,2
+8/7/2020 14:45,female,19.0,bit,year 1,2.5,no,yes,yes,yes,no,3,6.0,Facebook,high,messaging,4.0,2
+8/7/2020 17:37,female,23.0,engin,year 1,3.72,no,no,no,yes,no,1,5.5,Snapchat,high,mixed,5.5,2
+13/07/2020 21:21:42,male,18.0,engineering,year 2,3.35,no,yes,yes,no,no,4,5.5,Snapchat,high,mixed,7.5,4
+8/7/2020 14:45,female,19.0,bit,year 1,2.53,no,yes,yes,yes,no,4,5.0,Facebook,high,messaging,5.0,2
+8/7/2020 15:18,female,25.0,bcs,year 3,3.65,no,no,no,yes,no,3,4.5,TikTok,moderate,mixed,5.0,3
+13/07/2020 21:21:42,male,18.0,engineering,year 2,3.11,no,yes,yes,no,no,3,6.0,Snapchat,high,mixed,6.5,5
+13/07/2020 10:12:18,female,25.0,diploma nursing,year 2,3.73,no,no,no,no,no,2,2.0,Instagram,moderate,mixed,6.5,5
+8/7/2020 14:05,female,23.0,bcs,year 4,3.56,no,no,no,no,no,1,3.5,TikTok,moderate,messaging,6.5,2
+13/07/2020 10:07:32,female,20.0,biotechnology,year 3,0.83,no,no,no,no,no,1,4.5,Snapchat,moderate,mixed,6.0,4
+13/07/2020 13:57:11,female,24.0,diploma tesl,year 3,3.59,no,no,no,yes,no,2,3.0,Instagram,moderate,passive browsing,6.5,5
+8/7/2020 15:27,female,23.0,ala,year 1,2.95,yes,yes,no,yes,yes,3,4.5,Snapchat,moderate,mixed,6.5,2
+8/7/2020 17:05,female,18.0,cts,year 1,3.91,no,no,no,yes,no,4,6.5,TikTok,high,active posting,5.0,4
+13/07/2020 21:21:42,male,18.0,engineering,year 2,3.11,no,yes,yes,no,no,4,4.0,Snapchat,moderate,mixed,6.5,5
+8/7/2020 15:37,female,18.0,bcs,year 2,3.94,no,no,yes,no,no,5,1.5,TikTok,low,passive browsing,7.0,4
+8/7/2020 14:45,female,19.0,bit,year 1,2.62,no,yes,yes,yes,no,3,5.5,TikTok,high,messaging,5.0,2
+13/07/2020 19:56:49,female,21.0,bcs,year 1,3.72,no,no,yes,no,no,3,3.5,Instagram,moderate,messaging,4.0,4
+13/07/2020 11:46:13,female,18.0,psychology,year 1,3.78,no,yes,yes,yes,no,3,5.0,Instagram,high,messaging,5.0,3
+13/07/2020 10:07:32,female,19.0,biotechnology,year 3,0.73,no,no,no,no,no,1,4.5,Snapchat,moderate,messaging,6.5,5
+8/7/2020 14:05,female,23.0,bcs,year 4,3.49,no,no,no,no,no,1,4.0,YouTube,moderate,messaging,6.5,2
+8/7/2020 15:27,female,22.0,ala,year 1,2.97,yes,yes,no,yes,yes,3,4.0,Snapchat,moderate,messaging,7.5,1
+13/07/2020 10:11:26,female,23.0,communication,year 2,4.0,yes,yes,yes,yes,no,5,7.0,Instagram,high,messaging,4.5,3
+8/7/2020 12:13,male,24.0,mathemathics,year 4,3.06,no,no,no,no,no,2,4.0,Instagram,moderate,passive browsing,7.0,5
+8/7/2020 13:58,female,24.0,bit,year 3,3.77,yes,yes,yes,yes,yes,5,7.0,YouTube,high,active posting,5.0,4
